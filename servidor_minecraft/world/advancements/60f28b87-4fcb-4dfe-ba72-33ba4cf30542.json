@@ -5403,6 +5403,7 @@
       "minecraft:spider": "2025-02-13 02:09:28 +0000",
       "minecraft:creeper": "2025-02-15 21:38:29 +0000",
       "minecraft:witch": "2025-02-15 22:26:59 +0000",
+      "minecraft:wither_skeleton": "2025-02-15 22:44:53 +0000",
       "minecraft:zombie": "2025-02-11 21:37:04 +0000",
       "minecraft:zombie_villager": "2025-02-15 21:29:53 +0000"
     },
@@ -6734,6 +6735,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-02-15 22:49:19 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_void_bow": {
     "criteria": {
       "has_string": "2025-02-15 21:35:56 +0000"
@@ -7184,6 +7191,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_mercury": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-15 22:51:38 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
     "criteria": {
       "has_item": "2025-02-15 22:21:03 +0000"
@@ -7346,6 +7359,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-15 22:58:58 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_paver_stairs_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-15 22:21:03 +0000"
@@ -7418,6 +7437,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_hoe_with_water": {
+    "criteria": {
+      "has_diamond_hoe": "2025-02-15 22:46:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-15 22:21:03 +0000"
@@ -7487,6 +7512,12 @@
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-02-15 21:36:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-15 22:58:58 +0000"
     },
     "done": true
   },
@@ -7715,6 +7746,12 @@
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-15 22:21:03 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-15 22:58:58 +0000"
     },
     "done": true
   },
@@ -8247,6 +8284,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-15 22:45:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-15 22:21:03 +0000"
@@ -8289,6 +8332,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-02-15 22:50:50 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/crossbows/crossbow_corrupted_crossbow": {
     "criteria": {
       "has_string": "2025-02-15 21:35:56 +0000"
@@ -8323,6 +8372,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-02-15 22:26:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_hoe_with_mercury": {
+    "criteria": {
+      "has_diamond_hoe": "2025-02-15 22:46:15 +0000"
     },
     "done": true
   },
@@ -8419,6 +8474,12 @@
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-15 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-15 22:45:18 +0000"
     },
     "done": true
   },
@@ -8776,6 +8837,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_water": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-15 22:51:26 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/storage_block/copper_wall_stonecutting": {
     "criteria": {
       "has_copper": "2025-02-15 21:36:09 +0000"
@@ -8824,6 +8891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-02-15 22:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_the_recipe": "2025-02-15 21:55:48 +0000"
@@ -8833,6 +8906,12 @@
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 22:21:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_mercury": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-02-15 22:50:50 +0000"
     },
     "done": true
   },
@@ -8857,6 +8936,12 @@
   "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-15 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_chestplate_with_water": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-02-15 22:50:50 +0000"
     },
     "done": true
   },
@@ -9251,6 +9336,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-02-15 22:58:58 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2025-02-15 21:36:09 +0000"
@@ -9458,6 +9549,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 22:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-15 22:45:18 +0000"
     },
     "done": true
   },
@@ -9719,6 +9816,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/wither_rose": {
+    "criteria": {
+      "has_flower": "2025-02-15 22:49:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/copper_scaffolding_from_copper_ingots_stonecutting": {
     "criteria": {
       "has_copper_ingots": "2025-02-15 21:36:09 +0000"
@@ -9821,6 +9924,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_helmet_with_water": {
+    "criteria": {
+      "has_diamond_helmet": "2025-02-15 22:51:38 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_soul_bow": {
     "criteria": {
       "has_string": "2025-02-15 21:35:56 +0000"
@@ -9896,6 +10005,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 22:36:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_leggings_with_mercury": {
+    "criteria": {
+      "has_diamond_leggings": "2025-02-15 22:51:26 +0000"
     },
     "done": true
   },
@@ -10028,6 +10143,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-15 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-15 22:45:18 +0000"
     },
     "done": true
   },
