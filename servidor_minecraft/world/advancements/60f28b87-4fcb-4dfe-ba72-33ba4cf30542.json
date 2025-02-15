@@ -582,6 +582,7 @@
     "criteria": {
       "pine_taiga": "2025-02-11 21:29:27 +0000",
       "willow_forest": "2025-02-13 02:18:18 +0000",
+      "redstone_caves": "2025-02-15 21:57:03 +0000",
       "grassy_beach": "2025-02-15 21:25:10 +0000",
       "blackwood_taiga": "2025-02-11 21:36:03 +0000",
       "highland_fields": "2025-02-11 21:35:45 +0000",
@@ -996,7 +997,9 @@
       "minecraft:birch_forest": "2025-02-11 21:47:33 +0000",
       "minecraft:dark_forest": "2025-02-11 21:47:29 +0000",
       "minecraft:river": "2025-02-11 21:14:05 +0000",
-      "minecraft:forest": "2025-02-15 21:45:15 +0000"
+      "minecraft:dripstone_caves": "2025-02-15 21:56:31 +0000",
+      "minecraft:forest": "2025-02-15 21:45:15 +0000",
+      "minecraft:plains": "2025-02-15 21:55:28 +0000"
     },
     "done": false
   },
@@ -6459,6 +6462,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-15 21:55:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
     "criteria": {
       "has_item": "2025-02-15 21:47:28 +0000"
@@ -6558,6 +6567,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-02-15 21:27:24 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-02-15 21:55:48 +0000"
     },
     "done": true
   },
@@ -6970,6 +6985,12 @@
     },
     "done": true
   },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-02-15 21:57:03 +0000"
+    },
+    "done": false
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-02-15 21:35:37 +0000"
@@ -7024,6 +7045,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-15 21:55:48 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mossy_bricks_from_moss_block": {
     "criteria": {
       "has_item": "2025-02-15 21:41:10 +0000"
@@ -7075,6 +7102,12 @@
   "beachparty:beachpartybikini": {
     "criteria": {
       "has_string": "2025-02-15 21:35:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-15 21:55:48 +0000"
     },
     "done": true
   },
@@ -7190,6 +7223,12 @@
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-02-15 21:36:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-15 21:55:48 +0000"
     },
     "done": true
   },
@@ -7376,6 +7415,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-02-15 21:35:23 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-02-15 21:55:48 +0000"
     },
     "done": true
   },

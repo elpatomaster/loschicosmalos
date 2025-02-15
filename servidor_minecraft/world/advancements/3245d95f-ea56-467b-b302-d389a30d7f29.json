@@ -582,6 +582,7 @@
     "criteria": {
       "pine_taiga": "2025-02-11 21:29:27 +0000",
       "willow_forest": "2025-02-13 02:18:17 +0000",
+      "redstone_caves": "2025-02-15 21:57:02 +0000",
       "grassy_beach": "2025-02-15 21:25:08 +0000",
       "blackwood_taiga": "2025-02-11 21:36:01 +0000",
       "highland_fields": "2025-02-11 21:35:43 +0000",
@@ -996,6 +997,7 @@
       "minecraft:birch_forest": "2025-02-11 21:47:42 +0000",
       "minecraft:dark_forest": "2025-02-11 21:47:35 +0000",
       "minecraft:river": "2025-02-11 21:14:04 +0000",
+      "minecraft:dripstone_caves": "2025-02-15 21:55:23 +0000",
       "minecraft:forest": "2025-02-15 21:45:16 +0000"
     },
     "done": false
@@ -9366,6 +9368,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
+    "criteria": {
+      "has_raw_silver": "2025-02-15 21:57:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_tile_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-15 21:52:44 +0000"
@@ -9727,6 +9735,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/smelting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-02-15 21:57:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-15 21:26:33 +0000"
@@ -9961,6 +9975,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/raw_silver": {
+    "criteria": {
+      "has_raw_silver_ores": "2025-02-15 21:57:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-15 21:25:55 +0000"
@@ -10027,6 +10047,12 @@
       "has_iron_horse_armor": "2025-02-15 21:35:48 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-02-15 21:57:02 +0000"
+    },
+    "done": false
   },
   "lootr:50loot": {
     "criteria": {
@@ -10205,6 +10231,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 21:52:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
+    "criteria": {
+      "has_raw_silver": "2025-02-15 21:57:33 +0000"
     },
     "done": true
   },
@@ -10400,6 +10432,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
+    "criteria": {
+      "has_tag_c_raw_silver_ores": "2025-02-15 21:57:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-15 21:52:44 +0000"
@@ -10570,6 +10608,7 @@
   },
   "techreborn:root": {
     "criteria": {
+      "crit_1": "2025-02-15 21:57:33 +0000",
       "crit_0": "2025-02-15 21:34:35 +0000"
     },
     "done": false

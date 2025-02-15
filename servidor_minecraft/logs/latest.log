@@ -2474,3 +2474,33 @@ BCLib - Nether BiomeSource (77b1cdd6)
 [21:43:32] [Server thread/INFO]: moreracamilo has made the advancement [Chest Slayer]
 [21:45:23] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [21:47:21] [Server thread/INFO]: moreracamilo has made the advancement [Heart of the Machine]
+[22:00:11] [Server thread/INFO]: elpatomaster lost connection: Timed out
+[22:00:11] [Server thread/INFO]: elpatomaster left the game
+[22:00:11] [Server thread/INFO]: remove player wand
+[22:00:11] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[22:05:51] [User Authenticator #3/INFO]: UUID of player elpatomaster is 3245d95f-ea56-467b-b302-d389a30d7f29
+[22:05:51] [Server thread/INFO]: [Handshake] Sending channel query
+[22:05:51] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[22:05:51] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[22:05:51] [Server thread/INFO]: elpatomaster[/10.241.215.23:56627] logged in with entity id 7594 at (134.69999998807907, 0.0, -335.25141003530393)
+[22:05:51] [Server thread/INFO]: Sending server config values to client
+[22:05:51] [Server thread/INFO]: Syncing config to elpatomaster (3245d95f-ea56-467b-b302-d389a30d7f29)
+[22:05:51] [Server thread/INFO]: Loading config from file...
+[22:05:52] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[22:05:52] [Server thread/INFO]: elpatomaster joined the game
+[22:05:52] [Server thread/INFO]: Loading Configs for Sortilege
+[22:05:52] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[22:05:52] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[22:05:52] [Server thread/INFO]: PLAYER_JOIN
+[22:05:52] [Server thread/INFO]: add_player wand
+[22:05:52] [Server thread/INFO]: config sent
+[22:05:53] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[22:05:54] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[22:05:54] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[22:05:56] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[22:06:30] [Server thread/INFO]: <moreracamilo> x-xaewowo-w-waypowoint:W-Waypowoint:X-X:-13:-16:-380:6:f-fawse:0:I-Intewnaw-u-uvwwowowwd-w-waypowoints UwU
+[22:06:44] [Server thread/INFO]: <moreracamilo> xaewowoooo-waypowointttt:Waypowointttt:XXXX:256:-7:-228:6:fawseeee:0:Intewnawwww-uvwwowowwdddd-waypowointssss :3
+[22:07:05] [Server thread/INFO]: [Server] putoooo
+[22:07:25] [Server thread/INFO]: [Server] digo digo hola soy el server
+[22:07:47] [Server thread/INFO]: <elpatomaster> gay
+[22:08:17] [Server thread/INFO]: <elpatomaster> noch sos vos?
