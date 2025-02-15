@@ -2513,3 +2513,7 @@ BCLib - Nether BiomeSource (77b1cdd6)
 [22:30:53] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
 [22:34:09] [Server thread/INFO]: elpatomaster has made the advancement [Getting an Upgrade]
 [22:50:50] [Server thread/INFO]: moreracamilo has made the advancement [Cover Me with Diamonds]
+[23:05:49] [Server thread/INFO]: moreracamilo has made the advancement [Cobweb Entanglement]
+[23:05:56] [Server thread/INFO]: elpatomaster has made the advancement [Voluntary Exile]
+[23:07:32] [Server thread/INFO]: elpatomaster has completed the challenge [Hero of the Village]
+[23:07:32] [Server thread/INFO]: moreracamilo has completed the challenge [Hero of the Village]

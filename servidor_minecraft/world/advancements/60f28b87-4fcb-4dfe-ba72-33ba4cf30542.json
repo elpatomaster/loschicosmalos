@@ -5399,6 +5399,7 @@
     "criteria": {
       "minecraft:pillager": "2025-02-11 21:34:41 +0000",
       "minecraft:skeleton": "2025-02-11 21:37:44 +0000",
+      "minecraft:ravager": "2025-02-15 23:07:17 +0000",
       "minecraft:vindicator": "2025-02-15 22:26:40 +0000",
       "minecraft:spider": "2025-02-13 02:09:28 +0000",
       "minecraft:creeper": "2025-02-15 21:38:29 +0000",
@@ -7966,6 +7967,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-02-15 23:07:32 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-15 22:20:28 +0000"
@@ -8197,6 +8204,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-15 21:27:24 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-15 23:05:49 +0000"
     },
     "done": true
   },
@@ -9158,7 +9171,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-02-15 21:35:34 +0000"
+      "in_better_monster_room": "2025-02-15 21:35:34 +0000",
+      "in_better_spider_dungeon": "2025-02-15 23:05:49 +0000"
     },
     "done": false
   },
