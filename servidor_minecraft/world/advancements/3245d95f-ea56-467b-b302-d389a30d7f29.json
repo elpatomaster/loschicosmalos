@@ -8373,7 +8373,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-02-13 02:35:25 +0000"
+      "in_better_spider_dungeon": "2025-02-13 02:35:25 +0000",
+      "in_better_monster_room": "2025-02-15 21:35:26 +0000"
     },
     "done": false
   },
@@ -9242,6 +9243,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_axe_right": {
     "criteria": {
       "has_item": "2025-02-15 21:32:05 +0000"
@@ -9257,6 +9264,12 @@
   "soulsweapons:recipes/combat/bluemoon_greatsword": {
     "criteria": {
       "has_item": "2025-02-15 21:32:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9302,9 +9315,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/decorations/blackstone_pedestal": {
     "criteria": {
       "has_item": "2025-02-15 21:32:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pump": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-15 21:34:56 +0000"
     },
     "done": true
   },
@@ -9327,6 +9358,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-02-15 21:27:45 +0000"
@@ -9345,6 +9382,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/redstone": {
     "criteria": {
       "has_redstone": "2025-02-15 21:27:45 +0000"
@@ -9357,6 +9400,12 @@
     },
     "done": true
   },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2025-02-15 21:43:52 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dreamwood_wand": {
     "criteria": {
       "has_item": "2025-02-15 21:32:25 +0000"
@@ -9366,6 +9415,12 @@
   "techreborn:recipes/misc/crafting_table/small_dust/redstone_small_dust_from_dust": {
     "criteria": {
       "has_redstone": "2025-02-15 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/bauble_box": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9399,6 +9454,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-15 21:34:56 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
     "criteria": {
       "has_diamond": "2025-02-15 21:26:33 +0000"
@@ -9408,6 +9469,24 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2025-02-15 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-15 21:35:26 +0000"
     },
     "done": true
   },
@@ -9423,9 +9502,21 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "glowing_calamari": "2025-02-15 21:34:56 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-02-15 21:26:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9477,9 +9568,33 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_helmet": {
     "criteria": {
       "has_diamond": "2025-02-15 21:26:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/building_blocks/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9495,6 +9610,12 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/forest_eye": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-15 21:25:55 +0000"
@@ -9504,6 +9625,12 @@
   "botania:recipes/tools/twig_wand": {
     "criteria": {
       "has_item": "2025-02-15 21:32:25 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9532,6 +9659,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-02-15 21:35:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-15 21:35:39 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_hoe_left": {
     "criteria": {
       "has_item": "2025-02-15 21:32:05 +0000"
@@ -9547,6 +9686,12 @@
   "ae2:recipes/misc/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2025-02-15 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-02-15 21:43:52 +0000"
     },
     "done": true
   },
@@ -9568,6 +9713,12 @@
     },
     "done": true
   },
+  "botania:recipes/combat/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-02-15 21:26:33 +0000"
@@ -9580,9 +9731,51 @@
     },
     "done": true
   },
+  "botania:recipes/tools/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_water": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-02-15 21:36:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-15 21:43:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/travel_belt": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/monocle": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-02-15 21:26:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9616,6 +9809,18 @@
     },
     "done": true
   },
+  "botania:recipes/tools/sextant": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-02-15 21:26:33 +0000"
@@ -9634,6 +9839,12 @@
     },
     "done": true
   },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2025-02-15 21:37:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-15 21:26:33 +0000"
@@ -9643,6 +9854,18 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-15 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2025-02-15 21:43:52 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9676,6 +9899,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "beachparty:radio": {
     "criteria": {
       "has_redstone": "2025-02-15 21:27:45 +0000"
@@ -9706,9 +9935,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2025-02-15 21:43:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-02-15 21:30:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/swap_ring": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9766,6 +10007,12 @@
     },
     "done": true
   },
+  "botania:recipes/tools/mining_ring": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/daggers/dagger_void_touched_blade": {
     "criteria": {
       "has_diamond": "2025-02-15 21:26:33 +0000"
@@ -9778,9 +10025,21 @@
     },
     "done": false
   },
+  "croptopia:recipes/food/cooked_calamari_from_smoking_glowing_calamari": {
+    "criteria": {
+      "has_glowing_calamari": "2025-02-15 21:34:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-15 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9793,6 +10052,12 @@
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2025-02-15 21:27:45 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/lens_normal": {
+    "criteria": {
+      "has_item": "2025-02-15 21:36:51 +0000"
     },
     "done": true
   },
@@ -9847,6 +10112,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-15 21:26:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
+    "criteria": {
+      "has_diamond_horse_armor": "2025-02-15 21:36:58 +0000"
     },
     "done": true
   },
