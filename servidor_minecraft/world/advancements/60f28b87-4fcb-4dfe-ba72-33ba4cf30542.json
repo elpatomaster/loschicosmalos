@@ -6317,6 +6317,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/void_totem": {
+    "criteria": {
+      "has_totem_of_undying": "2025-02-15 23:42:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-15 22:21:13 +0000"
@@ -6416,6 +6422,12 @@
   "techreborn:recipes/crafting_table/machine/grinder": {
     "criteria": {
       "has_basic_machine_frame": "2025-02-15 21:47:21 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-02-15 23:42:28 +0000"
     },
     "done": true
   },
@@ -6599,6 +6611,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/royal_guard_armor_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-15 23:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 21:27:24 +0000"
@@ -6650,6 +6668,12 @@
   "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
     "criteria": {
       "has_diamond": "2025-02-15 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_blaze": {
+    "criteria": {
+      "has_item": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -7152,6 +7176,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "supplementaries:blackboard_white": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 22:20:28 +0000"
@@ -7194,9 +7224,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-02-15 23:44:11 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/ice_pendant": {
     "criteria": {
       "has_item": "2025-02-15 21:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -7227,6 +7275,12 @@
   "techreborn:recipes/centrifuge/spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-15 22:27:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-15 23:42:56 +0000"
     },
     "done": true
   },
@@ -7275,6 +7329,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-15 22:21:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/carrot": {
+    "criteria": {
+      "has_carrot": "2025-02-15 23:43:28 +0000"
     },
     "done": true
   },
@@ -7404,6 +7464,12 @@
     },
     "done": true
   },
+  "quartzelv:recipes/building_blocks/quartz_elevator": {
+    "criteria": {
+      "has_quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/gemstone_red": {
     "criteria": {
       "has_redstone": "2025-02-15 23:33:23 +0000"
@@ -7485,6 +7551,12 @@
   "mcdw:recipes/swords/sword_heartstealer": {
     "criteria": {
       "has_diamond": "2025-02-15 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 23:43:28 +0000"
     },
     "done": true
   },
@@ -7758,9 +7830,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-15 23:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -7773,6 +7857,12 @@
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-02-15 23:38:56 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/arms_up_pottery_sherd": {
+    "criteria": {
+      "has_totem_of_undying": "2025-02-15 23:42:56 +0000"
     },
     "done": true
   },
@@ -7899,6 +7989,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-15 22:36:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -8179,6 +8275,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/orange_dye_from_carrot": {
+    "criteria": {
+      "has_carrot": "2025-02-15 23:43:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-15 22:20:28 +0000"
@@ -8293,6 +8395,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 23:43:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-15 22:21:03 +0000"
@@ -8359,6 +8467,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/royal_guard_armor_boots": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-15 23:42:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-15 22:21:03 +0000"
@@ -8401,6 +8515,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-02-15 22:20:57 +0000"
@@ -8416,6 +8536,12 @@
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2025-02-15 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-15 23:42:56 +0000"
     },
     "done": true
   },
@@ -8452,6 +8578,12 @@
   "betterend:recipes/misc/soul_speed_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-15 23:23:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 23:43:28 +0000"
     },
     "done": true
   },
@@ -8647,6 +8779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-15 23:43:28 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2025-02-15 23:32:14 +0000"
@@ -8686,6 +8824,12 @@
   "botania:recipes/redstone/forest_eye": {
     "criteria": {
       "has_item": "2025-02-15 21:47:28 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -8899,6 +9043,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 23:43:28 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dodge_ring": {
     "criteria": {
       "has_item": "2025-02-15 21:47:28 +0000"
@@ -9008,6 +9158,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/gemstone_white": {
+    "criteria": {
+      "has_quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2025-02-15 21:35:45 +0000"
@@ -9113,6 +9269,12 @@
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-02-15 23:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -9440,6 +9602,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/golden_carrot": {
+    "criteria": {
+      "has_carrot": "2025-02-15 23:43:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-15 22:21:03 +0000"
@@ -9584,6 +9752,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/royal_guard_armor_chestplate": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-15 23:42:56 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/helix_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-02-15 23:23:58 +0000"
@@ -9659,6 +9839,12 @@
   "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-15 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -9884,6 +10070,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_item.minecraft.quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-15 22:36:01 +0000"
@@ -10045,6 +10237,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-02-15 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 23:43:28 +0000"
     },
     "done": true
   },
@@ -10231,6 +10429,12 @@
   "betterend:recipes/misc/piercing_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-15 23:23:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_lavender": {
+    "criteria": {
+      "has_item": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -10444,6 +10648,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-15 22:21:13 +0000"
@@ -10567,6 +10777,12 @@
   "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-15 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -10738,6 +10954,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-02-15 23:18:11 +0000"
@@ -10747,6 +10969,12 @@
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-02-15 23:23:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_dark": {
+    "criteria": {
+      "has_item": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -10816,6 +11044,18 @@
     },
     "done": true
   },
+  "botania:recipes/misc/quartz_red": {
+    "criteria": {
+      "has_item": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/quartz_sunny": {
+    "criteria": {
+      "has_item": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/mining_ring": {
     "criteria": {
       "has_item": "2025-02-15 21:47:28 +0000"
@@ -10876,6 +11116,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-02-15 23:33:23 +0000"
@@ -10930,6 +11176,12 @@
     },
     "done": true
   },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/blackstone": {
     "criteria": {
       "has_cobblestone": "2025-02-15 22:35:23 +0000"
@@ -10960,9 +11212,21 @@
     },
     "done": true
   },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2025-02-15 23:49:09 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:moonstone": {
     "criteria": {
       "moonstone": "2025-02-15 22:20:17 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-15 23:42:56 +0000"
     },
     "done": true
   },
@@ -11065,6 +11329,12 @@
   "bewitchment:recipes/decorations/silver_candelabra": {
     "criteria": {
       "has_item": "2025-02-15 21:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-15 23:49:09 +0000"
     },
     "done": true
   },
@@ -11182,6 +11452,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-15 23:44:11 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-15 22:20:28 +0000"
@@ -11278,6 +11554,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/royal_guard_armor_leggings": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-15 23:42:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-15 22:30:13 +0000"
@@ -11305,6 +11587,12 @@
   "techreborn:recipes/industrial_grinder/diamond_dust_from_horse_armor_with_mercury": {
     "criteria": {
       "has_diamond_horse_armor": "2025-02-15 22:28:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/gilded_glory_helmet": {
+    "criteria": {
+      "has_upgrade_item": "2025-02-15 23:42:56 +0000"
     },
     "done": true
   },
