@@ -13717,5 +13717,23 @@
     },
     "done": true
   },
+  "botania:recipes/redstone/red_string_comparator": {
+    "criteria": {
+      "has_base_block": "2025-02-16 05:01:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-16 04:57:56 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-02-16 04:57:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
