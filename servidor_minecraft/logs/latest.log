@@ -2526,3 +2526,7 @@ BCLib - Nether BiomeSource (6bdc61de)
 [17:02:26] [pool-12-thread-6/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields]] from pos class_2338{x=1605, y=72, z=395}
 [17:02:38] [Worker-Main-23/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [17:03:23] [Server thread/INFO]: moreracamilo has made the advancement [Archer´s Paths]
+[17:08:15] [Server thread/INFO]: elpatomaster has reached the goal [Choose your path]
+[17:08:16] [Server thread/INFO]: moreracamilo has reached the goal [Choose your path]
+[17:11:51] [Server thread/INFO]: elpatomaster has made the advancement [Path of Strength]
+[17:12:17] [Server thread/INFO]: moreracamilo has made the advancement [Path of Strength]
