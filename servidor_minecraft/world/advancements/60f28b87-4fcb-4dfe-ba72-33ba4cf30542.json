@@ -6299,6 +6299,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 22:20:28 +0000"
@@ -6356,6 +6362,24 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-02-15 22:21:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/paper_from_writable_book": {
+    "criteria": {
+      "has_writable_book": "2025-02-15 23:54:18 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wall_mushroom_brown": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-15 23:57:13 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-02-15 23:55:29 +0000"
     },
     "done": true
   },
@@ -6512,6 +6536,12 @@
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-02-15 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-15 23:50:24 +0000"
     },
     "done": true
   },
@@ -6692,6 +6722,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-15 23:50:24 +0000"
     },
     "done": true
   },
@@ -6995,6 +7031,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-02-15 23:54:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-02-15 22:20:28 +0000"
@@ -7028,6 +7070,12 @@
   "botania:recipes/decorations/pump": {
     "criteria": {
       "has_item": "2025-02-15 21:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-02-15 23:50:17 +0000"
     },
     "done": true
   },
@@ -7176,6 +7224,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2025-02-15 23:49:09 +0000"
@@ -7266,6 +7320,12 @@
     },
     "done": true
   },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/bows/bow_winters_touch": {
     "criteria": {
       "has_string": "2025-02-15 21:35:56 +0000"
@@ -7293,6 +7353,12 @@
   "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-15 22:21:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-15 23:55:29 +0000"
     },
     "done": true
   },
@@ -7404,6 +7470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-15 23:53:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-15 22:21:13 +0000"
@@ -7425,6 +7497,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 21:27:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-15 23:55:29 +0000"
     },
     "done": true
   },
@@ -7623,6 +7701,12 @@
   "techreborn:recipes/blast_furnace/prize_pottery_sherd": {
     "criteria": {
       "has_diamond": "2025-02-15 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-15 23:55:29 +0000"
     },
     "done": true
   },
@@ -8064,6 +8148,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-02-15 23:50:24 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/manual": {
     "criteria": {
       "has_book": "2025-02-15 23:23:58 +0000"
@@ -8275,6 +8365,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/orange_dye_from_carrot": {
     "criteria": {
       "has_carrot": "2025-02-15 23:43:28 +0000"
@@ -8332,6 +8428,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 22:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-15 23:55:29 +0000"
     },
     "done": true
   },
@@ -8563,6 +8665,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-15 23:50:24 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/manasteel_shovel": {
     "criteria": {
       "has_item": "2025-02-15 21:47:28 +0000"
@@ -8788,6 +8896,12 @@
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2025-02-15 23:32:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2025-02-15 23:55:29 +0000"
     },
     "done": true
   },
@@ -9109,6 +9223,12 @@
     },
     "done": true
   },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-02-15 23:50:24 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
     "criteria": {
       "has_the_recipe": "2025-02-15 22:30:13 +0000",
@@ -9182,6 +9302,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_whirlwind": {
+    "criteria": {
+      "has_phantom_membrane": "2025-02-15 23:56:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-15 22:36:01 +0000"
@@ -9203,6 +9329,12 @@
   "betternether:recipes/building_blocks/nether_reed_bookshelf": {
     "criteria": {
       "has_book": "2025-02-15 23:23:58 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2025-02-15 23:50:14 +0000"
     },
     "done": true
   },
@@ -9290,6 +9422,18 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/brazier": {
     "criteria": {
       "has_item": "2025-02-15 21:35:45 +0000"
@@ -9299,6 +9443,30 @@
   "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
     "criteria": {
       "has_iron_horse_armor": "2025-02-15 21:35:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
     },
     "done": true
   },
@@ -9581,6 +9749,12 @@
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-15 22:20:28 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-02-15 23:50:24 +0000"
     },
     "done": true
   },
@@ -10131,6 +10305,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/gunpowder_from_tnt": {
+    "criteria": {
+      "has_tnt": "2025-02-15 23:59:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-15 22:22:03 +0000"
@@ -10222,6 +10402,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-02-15 23:50:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-02-15 23:50:52 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/bookshelf": {
     "criteria": {
       "has_book": "2025-02-15 23:23:58 +0000"
@@ -10255,6 +10447,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-15 22:21:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-02-15 23:56:29 +0000"
     },
     "done": true
   },
@@ -10600,6 +10798,12 @@
     },
     "done": true
   },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-02-15 23:53:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-02-15 23:33:23 +0000"
@@ -10621,6 +10825,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-02-15 21:27:24 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-02-15 23:50:24 +0000"
     },
     "done": true
   },
@@ -10687,6 +10897,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2025-02-15 23:25:54 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-15 23:50:24 +0000"
     },
     "done": true
   },
@@ -10900,6 +11116,66 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-02-15 23:55:29 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_aeternium_upgrade": {
     "criteria": {
       "has_diamond": "2025-02-15 22:30:13 +0000"
@@ -10987,6 +11263,12 @@
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2025-02-15 22:23:51 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-02-15 23:56:29 +0000"
     },
     "done": true
   },
@@ -11446,6 +11728,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-15 23:50:24 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-02-15 23:33:23 +0000"
@@ -11560,9 +11848,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/brown_mushroom": {
+    "criteria": {
+      "has_brown_mushroom": "2025-02-15 23:57:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-02-15 22:30:13 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-02-15 23:50:24 +0000"
     },
     "done": true
   },

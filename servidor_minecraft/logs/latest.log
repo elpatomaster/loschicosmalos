@@ -2543,3 +2543,7 @@ BCLib - Nether BiomeSource (77b1cdd6)
 [23:43:10] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
 [23:43:10] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
 [23:43:12] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[23:50:52] [Server thread/INFO]: moreracamilo has completed the challenge [Centennial]
+[23:52:04] [Server thread/INFO]: Villager class_1646['Bobbie'/21353, l='ServerLevel[New World]', x=343.30, y=64.00, z=142.70] died, message: 'Bobbie was slain by Zombie'
+[23:52:04] [Server thread/INFO]: Named entity class_1646['Bobbie'/21353, l='ServerLevel[New World]', x=343.30, y=64.00, z=142.70] died: Bobbie was slain by Zombie
+[23:52:35] [Server thread/INFO]: elpatomaster has completed the challenge [Centennial]
