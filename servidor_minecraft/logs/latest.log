@@ -2533,3 +2533,148 @@ BCLib - Nether BiomeSource (6bdc61de)
 [17:25:23] [Server thread/INFO]: elpatomaster was slain by Old Champion's Remains
 [17:25:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [17:27:31] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 1068, 63, 432, minecraft:overworld
+[17:41:11] [Server thread/INFO]: elpatomaster has made the advancement [Best Friends Forever]
+[17:41:30] [Server thread/INFO]: moreracamilo has made the advancement [Best Friends Forever]
+[17:43:07] [Server thread/WARN]: elpatomaster was kicked for floating a vehicle too long!
+[17:43:07] [Server thread/INFO]: elpatomaster lost connection: Flying is not enabled on this server
+[17:43:07] [Server thread/INFO]: elpatomaster left the game
+[17:43:07] [Server thread/INFO]: remove player wand
+[17:43:07] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:43:11] [Server thread/WARN]: moreracamilo was kicked for floating a vehicle too long!
+[17:43:11] [Server thread/INFO]: moreracamilo lost connection: Flying is not enabled on this server
+[17:43:11] [Server thread/INFO]: moreracamilo left the game
+[17:43:11] [Server thread/INFO]: remove player wand
+[17:43:11] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[17:43:17] [User Authenticator #3/INFO]: UUID of player elpatomaster is 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:43:17] [Server thread/INFO]: [Handshake] Sending channel query
+[17:43:17] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[17:43:17] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[17:43:17] [Server thread/INFO]: elpatomaster[/10.241.215.23:52508] logged in with entity id 37766 at (82.07627335804524, 108.51313008100729, 132.01827139110134)
+[17:43:17] [Server thread/INFO]: Sending server config values to client
+[17:43:17] [Server thread/INFO]: Syncing config to elpatomaster (3245d95f-ea56-467b-b302-d389a30d7f29)
+[17:43:17] [Server thread/INFO]: Loading config from file...
+[17:43:17] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:43:18] [Server thread/INFO]: elpatomaster joined the game
+[17:43:18] [Server thread/INFO]: Loading Configs for Sortilege
+[17:43:18] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:43:18] [Server thread/INFO]: PLAYER_JOIN
+[17:43:18] [Server thread/INFO]: add_player wand
+[17:43:18] [Server thread/INFO]: config sent
+[17:43:18] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:43:19] [User Authenticator #4/INFO]: UUID of player moreracamilo is 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[17:43:19] [Server thread/INFO]: [Handshake] Sending channel query
+[17:43:19] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[17:43:19] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[17:43:19] [Server thread/INFO]: moreracamilo[/10.241.249.156:58537] logged in with entity id 37899 at (89.73183418031303, 102.43519411773255, 93.62294200558127)
+[17:43:19] [Server thread/INFO]: Sending server config values to client
+[17:43:19] [Server thread/INFO]: Syncing config to moreracamilo (60f28b87-4fcb-4dfe-ba72-33ba4cf30542)
+[17:43:19] [Server thread/INFO]: Loading config from file...
+[17:43:19] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:43:19] [Server thread/INFO]: moreracamilo joined the game
+[17:43:19] [Server thread/INFO]: Loading Configs for Sortilege
+[17:43:19] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:43:19] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[17:43:19] [Server thread/INFO]: PLAYER_JOIN
+[17:43:19] [Server thread/INFO]: add_player wand
+[17:43:19] [Server thread/INFO]: config sent
+[17:43:20] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[17:43:20] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[17:43:20] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[17:43:21] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[17:43:23] [Netty Epoll Server IO #7/INFO]: [Ping-Wheel] Channel update: moreracamilo -> Global
+[17:43:23] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player moreracamilo. Claiming: GRAVE / Robbing: INVENTORY
+[17:43:25] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[17:43:29] [Netty Epoll Server IO #7/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[17:44:49] [Server thread/WARN]: elpatomaster was kicked for floating a vehicle too long!
+[17:44:49] [Server thread/INFO]: elpatomaster lost connection: Flying is not enabled on this server
+[17:44:49] [Server thread/INFO]: elpatomaster left the game
+[17:44:49] [Server thread/INFO]: remove player wand
+[17:44:49] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:44:54] [User Authenticator #5/INFO]: UUID of player elpatomaster is 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:44:54] [Server thread/INFO]: [Handshake] Sending channel query
+[17:44:54] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[17:44:54] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[17:44:55] [Server thread/INFO]: elpatomaster[/10.241.215.23:52527] logged in with entity id 38143 at (104.47851490887481, 131.11037888519735, 49.1684788232138)
+[17:44:55] [Server thread/INFO]: Sending server config values to client
+[17:44:55] [Server thread/INFO]: Syncing config to elpatomaster (3245d95f-ea56-467b-b302-d389a30d7f29)
+[17:44:55] [Server thread/INFO]: Loading config from file...
+[17:44:55] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:44:55] [Server thread/INFO]: elpatomaster joined the game
+[17:44:55] [Server thread/INFO]: Loading Configs for Sortilege
+[17:44:55] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:44:55] [Server thread/INFO]: PLAYER_JOIN
+[17:44:55] [Server thread/INFO]: add_player wand
+[17:44:55] [Server thread/INFO]: config sent
+[17:44:55] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:44:57] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[17:44:57] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[17:44:57] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[17:44:58] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[17:45:39] [Server thread/WARN]: elpatomaster was kicked for floating a vehicle too long!
+[17:45:39] [Server thread/INFO]: elpatomaster lost connection: Flying is not enabled on this server
+[17:45:39] [Server thread/INFO]: elpatomaster left the game
+[17:45:39] [Server thread/INFO]: remove player wand
+[17:45:39] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:45:50] [Server thread/INFO]: Stopping the server
+[17:45:50] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[17:45:50] [Server thread/INFO]: Resetting environment controller...
+[17:45:50] [Server thread/INFO]: Stopping server
+[17:45:50] [Server thread/INFO]: Saving players
+[17:45:50] [Server thread/INFO]: moreracamilo lost connection: Server closed
+[17:45:50] [Server thread/INFO]: moreracamilo left the game
+[17:45:50] [Server thread/INFO]: remove player wand
+[17:45:50] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[17:45:50] [Server thread/INFO]: Saving worlds
+[17:45:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:moon_orbit
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:ramparts
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/spellbladenext:glassocean
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:black_bridge
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:insufferable_crypt
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mercury
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:glacio_orbit
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:moon
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mars_orbit
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:earth_orbit
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mercury_orbit
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:promenade
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/prominent:vaaz_volcano
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/deeperdarker:otherside
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecells:prison
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/the_bumblezone:the_bumblezone
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:venus
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:venus_orbit
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:mars
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ad_astra:glacio
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/prominent:cinderstone_depths
+[17:45:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[New World]'/ae2:spatial_storage
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (ramparts): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (glassocean): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (black_bridge): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (insufferable_crypt): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (promenade): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (vaaz_volcano): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (prison): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (cinderstone_depths): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[17:45:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:45:51] [Server thread/INFO]: Stopping IO worker...
+[17:45:51] [Server thread/INFO]: Stopped IO worker!
