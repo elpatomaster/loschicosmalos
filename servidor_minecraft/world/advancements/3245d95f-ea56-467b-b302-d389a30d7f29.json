@@ -13880,6 +13880,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/yellow_coffin": {
+    "criteria": {
+      "has_item": "2025-02-16 05:43:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-16 05:03:33 +0000"
