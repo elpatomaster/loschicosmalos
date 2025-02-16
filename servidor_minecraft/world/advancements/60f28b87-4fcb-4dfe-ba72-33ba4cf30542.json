@@ -588,6 +588,7 @@
       "blackwood_taiga": "2025-02-11 21:36:03 +0000",
       "rocky_meadow": "2025-02-16 15:42:08 +0000",
       "highland_fields": "2025-02-11 21:35:45 +0000",
+      "sparse_redwoods": "2025-02-16 15:55:47 +0000",
       "bamboo_forest": "2025-02-15 21:22:53 +0000",
       "temperate_grove": "2025-02-11 21:07:58 +0000",
       "grassland": "2025-02-15 21:54:26 +0000",
@@ -605,6 +606,7 @@
       "blackwood_taiga": "2025-02-11 21:36:03 +0000",
       "rocky_meadow": "2025-02-16 15:42:08 +0000",
       "highland_fields": "2025-02-11 21:35:45 +0000",
+      "sparse_redwoods": "2025-02-16 15:55:47 +0000",
       "bamboo_forest": "2025-02-15 21:22:53 +0000",
       "temperate_grove": "2025-02-11 21:07:58 +0000",
       "grassland": "2025-02-15 21:54:26 +0000",
@@ -1002,10 +1004,12 @@
     "criteria": {
       "minecraft:birch_forest": "2025-02-11 21:47:33 +0000",
       "minecraft:dark_forest": "2025-02-11 21:47:29 +0000",
+      "minecraft:sparse_jungle": "2025-02-16 15:54:46 +0000",
       "minecraft:river": "2025-02-11 21:14:05 +0000",
       "minecraft:dripstone_caves": "2025-02-15 21:56:31 +0000",
       "minecraft:forest": "2025-02-15 21:45:15 +0000",
       "minecraft:jungle": "2025-02-16 15:48:53 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-16 15:54:48 +0000",
       "minecraft:plains": "2025-02-15 21:55:28 +0000"
     },
     "done": false
@@ -12210,6 +12214,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-16 15:58:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-16 16:00:36 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-02-16 15:46:11 +0000"
@@ -12219,6 +12241,18 @@
   "botania:main/root": {
     "criteria": {
       "flower": "2025-02-16 15:46:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/meringue": {
+    "criteria": {
+      "has_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-16 16:00:36 +0000"
     },
     "done": true
   },
@@ -12234,15 +12268,87 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/black_shiny_flower": {
     "criteria": {
       "has_item": "2025-02-16 15:46:11 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-02-16 15:58:15 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/misc/petal_black": {
     "criteria": {
       "has_item": "2025-02-16 15:46:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-16 15:58:15 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:molten_edge": {
+    "criteria": {
+      "requirement": "2025-02-16 15:56:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-16 16:00:36 +0000"
     },
     "done": true
   },

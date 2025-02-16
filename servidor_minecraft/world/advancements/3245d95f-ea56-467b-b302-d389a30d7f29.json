@@ -588,6 +588,7 @@
       "blackwood_taiga": "2025-02-11 21:36:01 +0000",
       "rocky_meadow": "2025-02-16 15:42:08 +0000",
       "highland_fields": "2025-02-11 21:35:43 +0000",
+      "sparse_redwoods": "2025-02-16 15:55:46 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
       "temperate_grove": "2025-02-11 21:05:43 +0000",
       "grassland": "2025-02-15 21:54:05 +0000",
@@ -605,6 +606,7 @@
       "blackwood_taiga": "2025-02-11 21:36:01 +0000",
       "rocky_meadow": "2025-02-16 15:42:08 +0000",
       "highland_fields": "2025-02-11 21:35:43 +0000",
+      "sparse_redwoods": "2025-02-16 15:55:46 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
       "temperate_grove": "2025-02-11 21:05:43 +0000",
       "grassland": "2025-02-15 21:54:05 +0000",
@@ -1002,10 +1004,12 @@
     "criteria": {
       "minecraft:birch_forest": "2025-02-11 21:47:42 +0000",
       "minecraft:dark_forest": "2025-02-11 21:47:35 +0000",
+      "minecraft:sparse_jungle": "2025-02-16 15:54:43 +0000",
       "minecraft:river": "2025-02-11 21:14:04 +0000",
       "minecraft:dripstone_caves": "2025-02-15 21:55:23 +0000",
       "minecraft:forest": "2025-02-15 21:45:16 +0000",
       "minecraft:jungle": "2025-02-16 15:48:52 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-16 15:54:45 +0000",
       "minecraft:plains": "2025-02-15 22:22:00 +0000"
     },
     "done": false
@@ -14523,6 +14527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-16 15:54:12 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-02-16 15:46:13 +0000"
@@ -14541,15 +14551,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-16 15:54:12 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
     "criteria": {
       "has_hyssop": "2025-02-16 15:44:39 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/grapefruit_sapling": {
+    "criteria": {
+      "has_grapefruit": "2025-02-16 15:55:08 +0000"
+    },
+    "done": true
+  },
   "botania:main/flower_pickup_lexicon": {
     "criteria": {
       "flower": "2025-02-16 15:46:13 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-16 15:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-16 15:54:12 +0000"
     },
     "done": true
   },
@@ -14562,6 +14596,12 @@
   "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
     "criteria": {
       "has_fireweed": "2025-02-16 15:44:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-16 15:54:12 +0000"
     },
     "done": true
   },
