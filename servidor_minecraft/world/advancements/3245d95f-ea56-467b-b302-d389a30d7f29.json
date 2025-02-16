@@ -16123,5 +16123,59 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-02-16 17:52:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/jungle_slab_from_stairs": {
+    "criteria": {
+      "has_jungle_stairs": "2025-02-16 17:53:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-16 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-16 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-02-16 17:53:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-02-16 17:54:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2025-02-16 17:52:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-02-16 17:52:57 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2025-02-16 17:54:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
