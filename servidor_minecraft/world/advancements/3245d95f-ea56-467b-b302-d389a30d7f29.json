@@ -13536,6 +13536,12 @@
     },
     "done": true
   },
+  "minecells:unlock/kill_30_leaping_zombies": {
+    "criteria": {
+      "leaping_zombies_killed": "2025-02-16 00:24:18 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/undead_archer": {
     "criteria": {
       "requirement": "2025-02-16 00:10:16 +0000"
@@ -13566,9 +13572,21 @@
     },
     "done": true
   },
+  "minecells:book/mobs/grenadier": {
+    "criteria": {
+      "requirement": "2025-02-16 00:23:35 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/shieldbearer": {
     "criteria": {
       "requirement": "2025-02-16 00:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-02-16 00:20:56 +0000"
     },
     "done": true
   },

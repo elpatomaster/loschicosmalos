@@ -11980,6 +11980,12 @@
     },
     "done": true
   },
+  "simplyswords:stars_edge": {
+    "criteria": {
+      "requirement": "2025-02-16 00:26:04 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
     "criteria": {
       "has_tag_minecraft_wooden_fences": "2025-02-16 00:16:28 +0000"

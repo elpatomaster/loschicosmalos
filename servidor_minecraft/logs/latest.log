@@ -66,3 +66,6 @@
 [00:19:17] [Server thread/INFO]: [elpatomaster: Added elpatomaster to team [all]]
 [00:19:22] [Server thread/INFO]: [elpatomaster: Added 2 members to team [all]]
 [00:19:35] [Server thread/INFO]: [elpatomaster: Disabled friendly fire for team [all]]
+[00:24:49] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=187, y=68, z=376} but found not block entity block Block{minecraft:air} at location
+[00:24:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=187, y=68, z=376}
+[00:26:04] [Server thread/INFO]: moreracamilo has made the advancement [Cosmic Fury]
