@@ -69,3 +69,8 @@
 [00:24:49] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=187, y=68, z=376} but found not block entity block Block{minecraft:air} at location
 [00:24:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=187, y=68, z=376}
 [00:26:04] [Server thread/INFO]: moreracamilo has made the advancement [Cosmic Fury]
+[00:32:23] [Server thread/INFO]: elpatomaster has made the advancement [Elite enemy!]
+[00:39:40] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:39:40] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:39:43] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:39:44] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.

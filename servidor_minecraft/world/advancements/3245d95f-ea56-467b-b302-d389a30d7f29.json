@@ -13560,6 +13560,12 @@
     },
     "done": true
   },
+  "minecells:elite": {
+    "criteria": {
+      "obelisk_activated": "2025-02-16 00:32:23 +0000"
+    },
+    "done": true
+  },
   "minecells:book/mobs/runner": {
     "criteria": {
       "requirement": "2025-02-16 00:14:26 +0000"
