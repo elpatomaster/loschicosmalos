@@ -12040,5 +12040,23 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/vanilla_piles/lily_of_the_valley": {
+    "criteria": {
+      "has_flower": "2025-02-16 05:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-02-16 05:12:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-02-16 05:12:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
