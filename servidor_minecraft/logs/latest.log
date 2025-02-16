@@ -2503,3 +2503,6 @@ BCLib - Nether BiomeSource (6bdc61de)
 [16:03:15] [Server thread/ERROR]: Unable to fill loot barrel in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1614, y=68, z=832} as the loot table 'luna_structures:chests/taiga_inn/taiga_inn_barrels' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
 [16:03:16] [Server thread/ERROR]: Unable to fill loot barrel in ResourceKey[minecraft:dimension / minecraft:overworld] at class_2338{x=1615, y=68, z=832} as the loot table 'luna_structures:chests/taiga_inn/taiga_inn_barrels' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
 [16:04:35] [Server thread/INFO]: elpatomaster has made the advancement [Wild Grapes]
+[16:07:24] [Server thread/INFO]: Villager class_1646['Rolland'/10779, l='ServerLevel[New World]', x=1618.72, y=58.00, z=870.51] died, message: 'Rolland was slain by Zombie'
+[16:07:24] [Server thread/INFO]: Named entity class_1646['Rolland'/10779, l='ServerLevel[New World]', x=1618.72, y=58.00, z=870.51] died: Rolland was slain by Zombie
+[16:14:05] [Server thread/INFO]: elpatomaster has made the advancement [Create: Estrogen]
