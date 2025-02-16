@@ -13531,21 +13531,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
+  "minecells:book/mobs/shieldbearer": {
     "criteria": {
-      "has_ink_sac": "2025-02-16 00:43:27 +0000"
-    },
-    "done": true
-  },
-  "minecells:promenade": {
-    "criteria": {
-      "requirement": "2025-02-16 00:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecells:unlock/kill_30_leaping_zombies": {
-    "criteria": {
-      "leaping_zombies_killed": "2025-02-16 00:24:18 +0000"
+      "requirement": "2025-02-16 00:08:53 +0000"
     },
     "done": true
   },
@@ -13555,9 +13543,15 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/glass_black": {
+  "minecells:unlock/kill_a_leaping_zombie": {
     "criteria": {
-      "has_dyes/black": "2025-02-16 00:43:27 +0000"
+      "leaping_zombie_killed": "2025-02-16 00:11:24 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/leaping_zombie": {
+    "criteria": {
+      "requirement": "2025-02-16 00:11:24 +0000"
     },
     "done": true
   },
@@ -13567,39 +13561,21 @@
     },
     "done": true
   },
-  "minecells:unlock/kill_a_leaping_zombie": {
+  "minecells:promenade": {
     "criteria": {
-      "leaping_zombie_killed": "2025-02-16 00:11:24 +0000"
+      "requirement": "2025-02-16 00:12:35 +0000"
     },
     "done": true
   },
-  "mcda:recipes/base_armors/squid_armor_helmet": {
+  "minecells:unlock/run_in_the_promenade": {
     "criteria": {
-      "has_ink_sac": "2025-02-16 00:43:27 +0000"
+      "run": "2025-02-16 00:12:40 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/squid": {
+  "minecells:book/mobs/mutated_bat": {
     "criteria": {
-      "has_ink_sac": "2025-02-16 00:43:27 +0000"
-    },
-    "done": true
-  },
-  "minecells:elite": {
-    "criteria": {
-      "obelisk_activated": "2025-02-16 00:32:23 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/runner": {
-    "criteria": {
-      "requirement": "2025-02-16 00:14:26 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_black": {
-    "criteria": {
-      "has_dyes/black": "2025-02-16 00:43:27 +0000"
+      "requirement": "2025-02-16 00:12:59 +0000"
     },
     "done": true
   },
@@ -13609,9 +13585,27 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cables/dense_smart_black": {
+  "minecells:book/mobs/runner": {
     "criteria": {
-      "has_dyes/black": "2025-02-16 00:43:27 +0000"
+      "requirement": "2025-02-16 00:14:26 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-02-16 00:16:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
+    "criteria": {
+      "has_tag_minecraft_wooden_fences": "2025-02-16 00:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecells:book/mobs/protector": {
+    "criteria": {
+      "requirement": "2025-02-16 00:20:56 +0000"
     },
     "done": true
   },
@@ -13621,21 +13615,15 @@
     },
     "done": true
   },
-  "mcda:recipes/base_armors/squid_armor_boots": {
+  "minecells:unlock/kill_30_leaping_zombies": {
     "criteria": {
-      "has_ink_sac": "2025-02-16 00:43:27 +0000"
+      "leaping_zombies_killed": "2025-02-16 00:24:18 +0000"
     },
     "done": true
   },
-  "minecells:book/mobs/shieldbearer": {
+  "minecells:elite": {
     "criteria": {
-      "requirement": "2025-02-16 00:08:53 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_black": {
-    "criteria": {
-      "has_dyes/black": "2025-02-16 00:43:27 +0000"
+      "obelisk_activated": "2025-02-16 00:32:23 +0000"
     },
     "done": true
   },
@@ -13651,39 +13639,63 @@
     },
     "done": true
   },
-  "minecells:book/mobs/protector": {
+  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
     "criteria": {
-      "requirement": "2025-02-16 00:20:56 +0000"
+      "has_calamari": "2025-02-16 00:43:26 +0000"
     },
     "done": true
   },
-  "minecells:book/mobs/mutated_bat": {
+  "techreborn:recipes/extractor/black_dye_from_ink_sac": {
     "criteria": {
-      "requirement": "2025-02-16 00:12:59 +0000"
+      "has_ink_sac": "2025-02-16 00:43:27 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_fences": {
+  "ae2:recipes/misc/network/cables/glass_black": {
     "criteria": {
-      "has_tag_minecraft_wooden_fences": "2025-02-16 00:16:34 +0000"
+      "has_dyes/black": "2025-02-16 00:43:27 +0000"
     },
     "done": true
   },
-  "minecells:unlock/run_in_the_promenade": {
+  "mcda:recipes/base_armors/squid_armor_helmet": {
     "criteria": {
-      "run": "2025-02-16 00:12:40 +0000"
+      "has_ink_sac": "2025-02-16 00:43:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-02-16 00:43:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-16 00:43:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-16 00:43:27 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/squid_armor_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-02-16 00:43:27 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-02-16 00:43:27 +0000"
     },
     "done": true
   },
   "mcda:recipes/base_armors/squid_armor_chestplate": {
     "criteria": {
       "has_ink_sac": "2025-02-16 00:43:27 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/saw_small_dust_from_wooden_fences": {
-    "criteria": {
-      "has_tag_minecraft_wooden_fences": "2025-02-16 00:16:34 +0000"
     },
     "done": true
   },
@@ -13702,18 +13714,6 @@
   "mcda:recipes/base_armors/squid_armor_leggings": {
     "criteria": {
       "has_ink_sac": "2025-02-16 00:43:27 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/cooked_calamari_from_smoking_calamari": {
-    "criteria": {
-      "has_calamari": "2025-02-16 00:43:26 +0000"
-    },
-    "done": true
-  },
-  "minecells:book/mobs/leaping_zombie": {
-    "criteria": {
-      "requirement": "2025-02-16 00:11:24 +0000"
     },
     "done": true
   },
