@@ -581,6 +581,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-02-16 15:43:01 +0000",
+      "dry_bushland": "2025-02-16 16:46:52 +0000",
       "pine_taiga": "2025-02-11 21:29:27 +0000",
       "willow_forest": "2025-02-13 02:18:18 +0000",
       "redstone_caves": "2025-02-15 21:57:03 +0000",
@@ -592,6 +593,7 @@
       "bamboo_forest": "2025-02-15 21:22:53 +0000",
       "temperate_grove": "2025-02-11 21:07:58 +0000",
       "grassland": "2025-02-15 21:54:26 +0000",
+      "prairie": "2025-02-16 16:41:35 +0000",
       "redwoods": "2025-02-16 15:49:15 +0000",
       "lupine_plains": "2025-02-13 02:17:38 +0000"
     },
@@ -600,6 +602,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2025-02-16 15:43:01 +0000",
+      "dry_bushland": "2025-02-16 16:46:52 +0000",
       "pine_taiga": "2025-02-11 21:29:27 +0000",
       "willow_forest": "2025-02-13 02:18:18 +0000",
       "grassy_beach": "2025-02-15 21:25:10 +0000",
@@ -610,6 +613,7 @@
       "bamboo_forest": "2025-02-15 21:22:53 +0000",
       "temperate_grove": "2025-02-11 21:07:58 +0000",
       "grassland": "2025-02-15 21:54:26 +0000",
+      "prairie": "2025-02-16 16:41:35 +0000",
       "redwoods": "2025-02-16 15:49:15 +0000",
       "lupine_plains": "2025-02-13 02:17:38 +0000"
     },
@@ -5415,9 +5419,11 @@
       "minecraft:vindicator": "2025-02-15 22:26:40 +0000",
       "minecraft:spider": "2025-02-13 02:09:28 +0000",
       "minecraft:creeper": "2025-02-15 21:38:29 +0000",
+      "minecraft:phantom": "2025-02-16 16:43:27 +0000",
       "minecraft:witch": "2025-02-15 22:26:59 +0000",
       "minecraft:wither_skeleton": "2025-02-15 22:44:53 +0000",
       "minecraft:cave_spider": "2025-02-15 23:29:44 +0000",
+      "minecraft:silverfish": "2025-02-16 16:41:03 +0000",
       "minecraft:zombie": "2025-02-11 21:37:04 +0000",
       "minecraft:zombie_villager": "2025-02-15 21:29:53 +0000"
     },
@@ -12214,6 +12220,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 16:42:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-02-16 16:02:27 +0000"
@@ -12232,6 +12244,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 16:42:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/baked_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-16 16:00:36 +0000"
@@ -12241,6 +12259,18 @@
   "botania:recipes/tools/flower_bag": {
     "criteria": {
       "has_item": "2025-02-16 15:46:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 16:42:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 16:42:12 +0000"
     },
     "done": true
   },
@@ -12268,9 +12298,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-16 16:40:35 +0000"
+    },
+    "done": true
+  },
   "botania:main/root": {
     "criteria": {
       "flower": "2025-02-16 15:46:11 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-02-16 16:38:19 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 16:42:12 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/voodoo_poppet": {
+    "criteria": {
+      "has_item": "2025-02-16 16:38:19 +0000"
     },
     "done": true
   },
@@ -12316,9 +12370,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/purple_dye_from_hyssop": {
+    "criteria": {
+      "has_hyssop": "2025-02-16 16:44:11 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-02-16 16:03:20 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/protection_poppet": {
+    "criteria": {
+      "has_item": "2025-02-16 16:38:19 +0000"
     },
     "done": true
   },
@@ -12340,9 +12406,39 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/curse_poppet": {
+    "criteria": {
+      "has_item": "2025-02-16 16:38:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2025-02-16 16:42:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/golden_carrot": {
+    "criteria": {
+      "has_golden_carrot": "2025-02-16 16:40:35 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/industrial_jackhammer": {
     "criteria": {
       "has_energy_flow_chip": "2025-02-16 16:27:44 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-02-16 16:38:19 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-02-16 16:40:35 +0000"
     },
     "done": true
   },
@@ -12388,6 +12484,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/vampiric_poppet": {
+    "criteria": {
+      "has_item": "2025-02-16 16:38:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-16 16:03:20 +0000"
@@ -12415,6 +12517,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-02-16 16:03:20 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/mending_poppet": {
+    "criteria": {
+      "has_item": "2025-02-16 16:38:19 +0000"
     },
     "done": true
   },
@@ -12448,9 +12556,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/fatigue_poppet": {
+    "criteria": {
+      "has_item": "2025-02-16 16:38:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/tool/advanced_jackhammer": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:27:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 16:42:12 +0000"
     },
     "done": true
   },
@@ -12460,9 +12580,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 16:42:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/distillation_tower": {
     "criteria": {
       "has_industrial_machine_frame": "2025-02-16 16:25:49 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/judgment_poppet": {
+    "criteria": {
+      "has_item": "2025-02-16 16:38:19 +0000"
     },
     "done": true
   },
@@ -12471,6 +12603,12 @@
       "has_mossy_cobblestone": "2025-02-16 16:03:20 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-16 16:43:27 +0000"
+    },
+    "done": false
   },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
@@ -12499,6 +12637,12 @@
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2025-02-16 16:02:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-02-16 16:38:19 +0000"
     },
     "done": true
   },
@@ -12568,9 +12712,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 16:42:12 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
     "criteria": {
       "has_item": "2025-02-16 16:03:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 16:42:12 +0000"
     },
     "done": true
   },
@@ -12586,9 +12742,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-16 16:38:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/fluid_replicator": {
     "criteria": {
       "has_industrial_machine_frame": "2025-02-16 16:25:49 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/death_protection_poppet": {
+    "criteria": {
+      "has_item": "2025-02-16 16:38:19 +0000"
     },
     "done": true
   },
