@@ -2470,3 +2470,16 @@ BCLib - The End  BiomeSource (65f5ff8a)
 [05:30:20] [Server thread/INFO]: [elpatomaster: Gamerule playersSleepingPercentage is now set to: 0]
 [05:30:35] [Server thread/INFO]: Villager class_1646['Kristofer'/167, l='ServerLevel[New World]', x=97.09, y=74.50, z=221.78] died, message: 'Kristofer hit the ground too hard'
 [05:30:35] [Server thread/INFO]: Named entity class_1646['Kristofer'/167, l='ServerLevel[New World]', x=97.09, y=74.50, z=221.78] died: Kristofer hit the ground too hard
+[05:42:26] [Server thread/INFO]: Villager class_1646['Dorothea'/155, l='ServerLevel[New World]', x=109.35, y=71.00, z=215.70] died, message: 'Dorothea was slain by Zombie'
+[05:42:26] [Server thread/INFO]: Named entity class_1646['Dorothea'/155, l='ServerLevel[New World]', x=109.35, y=71.00, z=215.70] died: Dorothea was slain by Zombie
+[05:42:26] [Server thread/INFO]: Villager class_1646['Lonny'/160, l='ServerLevel[New World]', x=109.70, y=71.00, z=215.70] died, message: 'Lonny was slain by Dorothea'
+[05:42:26] [Server thread/INFO]: Named entity class_1646['Lonny'/160, l='ServerLevel[New World]', x=109.70, y=71.00, z=215.70] died: Lonny was slain by Dorothea
+[05:42:34] [Server thread/INFO]: Villager class_1646['Granville'/159, l='ServerLevel[New World]', x=108.70, y=71.00, z=217.07] died, message: 'Granville was slain by Zombie'
+[05:42:34] [Server thread/INFO]: Named entity class_1646['Granville'/159, l='ServerLevel[New World]', x=108.70, y=71.00, z=217.07] died: Granville was slain by Zombie
+[05:43:48] [Server thread/INFO]: Named entity class_1641['Lonny'/9183, l='ServerLevel[New World]', x=100.78, y=71.00, z=209.51] died: Lonny was slain by elpatomaster
+[05:43:48] [Server thread/INFO]: Villager class_1646['Irvin'/9311, l='ServerLevel[New World]', x=140.57, y=54.00, z=254.87] died, message: 'Irvin was slain by Zombie'
+[05:43:48] [Server thread/INFO]: Named entity class_1646['Irvin'/9311, l='ServerLevel[New World]', x=140.57, y=54.00, z=254.87] died: Irvin was slain by Zombie
+[05:44:38] [Server thread/INFO]: Named entity class_1641['Dorothea'/9182, l='ServerLevel[New World]', x=92.39, y=71.00, z=219.74] died: Dorothea was slain by elpatomaster
+[05:44:40] [Server thread/INFO]: Named entity class_1641['Granville'/9197, l='ServerLevel[New World]', x=92.18, y=71.00, z=218.21] died: Granville was slain by elpatomaster
+[05:45:01] [Server thread/INFO]: [elpatomaster: Set own game mode to Creative Mode]
+[05:46:37] [Server thread/INFO]: [elpatomaster: Set own game mode to Survival Mode]

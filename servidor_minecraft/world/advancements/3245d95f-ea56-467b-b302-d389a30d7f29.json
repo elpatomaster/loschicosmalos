@@ -7915,6 +7915,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "willow_log": "2025-02-13 02:21:17 +0000",
+      "pine_log": "2025-02-16 05:38:48 +0000",
       "maple_log": "2025-02-13 02:36:21 +0000"
     },
     "done": false
@@ -13723,6 +13724,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 05:39:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/redstone/red_string_comparator": {
     "criteria": {
       "has_base_block": "2025-02-16 05:01:59 +0000"
@@ -13735,6 +13748,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 05:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-02-16 05:04:10 +0000"
@@ -13744,6 +13769,18 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 05:08:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2025-02-16 05:38:48 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 05:39:55 +0000"
     },
     "done": true
   },
@@ -13819,9 +13856,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/pine_sapling_from_pine_shrub": {
+    "criteria": {
+      "has_pine_shrub": "2025-02-16 05:38:48 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
     "criteria": {
       "has_glass": "2025-02-16 05:08:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/regions_unexplored/sign_post_pine": {
+    "criteria": {
+      "has_planks": "2025-02-16 05:39:55 +0000"
     },
     "done": true
   },
@@ -13861,6 +13910,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2025-02-16 05:38:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/prismaglass": {
     "criteria": {
       "has_glass": "2025-02-16 05:08:12 +0000"
@@ -13870,6 +13925,12 @@
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 05:08:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_log": {
+    "criteria": {
+      "has_rubber_log": "2025-02-16 05:39:18 +0000"
     },
     "done": true
   },
@@ -13888,6 +13949,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 05:08:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_wood": {
+    "criteria": {
+      "has_rubber_log": "2025-02-16 05:39:18 +0000"
     },
     "done": true
   },
@@ -13921,9 +13988,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 05:39:55 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/rubber_logs": {
+    "criteria": {
+      "has_rubber_logs": "2025-02-16 05:39:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_lantern": {
     "criteria": {
       "has_glowstone": "2025-02-16 05:04:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2025-02-16 05:38:48 +0000"
     },
     "done": true
   },
@@ -13942,6 +14033,18 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 05:08:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/rubber_planks": {
+    "criteria": {
+      "has_rubber_log": "2025-02-16 05:39:18 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_shrub": {
+    "criteria": {
+      "has_pine_sapling": "2025-02-16 05:39:09 +0000"
     },
     "done": true
   },
@@ -13969,6 +14072,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/pine_sign": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 05:39:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 05:08:12 +0000"
@@ -13984,6 +14093,12 @@
   "vinery:recipes/wine_box": {
     "criteria": {
       "has_glass": "2025-02-16 05:08:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-02-16 05:39:55 +0000"
     },
     "done": true
   },
