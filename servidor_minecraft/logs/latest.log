@@ -74,3 +74,13 @@
 [00:39:40] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [00:39:43] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [00:39:44] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:42:13] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[00:42:15] [Netty Epoll Server IO #2/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[00:44:00] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[00:44:00] [Server thread/INFO]: elpatomaster left the game
+[00:44:00] [Server thread/INFO]: remove player wand
+[00:44:00] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[00:44:02] [Server thread/INFO]: moreracamilo lost connection: Disconnected
+[00:44:02] [Server thread/INFO]: moreracamilo left the game
+[00:44:02] [Server thread/INFO]: remove player wand
+[00:44:02] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
