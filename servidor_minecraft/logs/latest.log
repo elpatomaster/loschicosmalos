@@ -2530,3 +2530,6 @@ BCLib - Nether BiomeSource (6bdc61de)
 [17:08:16] [Server thread/INFO]: moreracamilo has reached the goal [Choose your path]
 [17:11:51] [Server thread/INFO]: elpatomaster has made the advancement [Path of Strength]
 [17:12:17] [Server thread/INFO]: moreracamilo has made the advancement [Path of Strength]
+[17:25:23] [Server thread/INFO]: elpatomaster was slain by Old Champion's Remains
+[17:25:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[17:27:31] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 1068, 63, 432, minecraft:overworld
