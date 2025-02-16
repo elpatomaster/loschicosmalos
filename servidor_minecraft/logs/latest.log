@@ -2492,3 +2492,11 @@ BCLib - Nether BiomeSource (6bdc61de)
 [17:51:51] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [17:51:51] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [17:52:52] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[18:00:00] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[18:00:00] [Server thread/INFO]: elpatomaster left the game
+[18:00:00] [Server thread/INFO]: remove player wand
+[18:00:00] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[18:00:02] [Server thread/INFO]: moreracamilo lost connection: Disconnected
+[18:00:02] [Server thread/INFO]: moreracamilo left the game
+[18:00:02] [Server thread/INFO]: remove player wand
+[18:00:02] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
