@@ -2506,3 +2506,7 @@ BCLib - Nether BiomeSource (6bdc61de)
 [16:07:24] [Server thread/INFO]: Villager class_1646['Rolland'/10779, l='ServerLevel[New World]', x=1618.72, y=58.00, z=870.51] died, message: 'Rolland was slain by Zombie'
 [16:07:24] [Server thread/INFO]: Named entity class_1646['Rolland'/10779, l='ServerLevel[New World]', x=1618.72, y=58.00, z=870.51] died: Rolland was slain by Zombie
 [16:14:05] [Server thread/INFO]: elpatomaster has made the advancement [Create: Estrogen]
+[16:23:37] [Server thread/INFO]: moreracamilo has made the advancement [Create: Estrogen]
+[16:26:13] [Server thread/INFO]: Villager class_1646['Apryl'/10771, l='ServerLevel[New World]', x=1624.45, y=69.54, z=854.08] died, message: 'Apryl was slain by Zombie'
+[16:26:13] [Server thread/INFO]: Named entity class_1646['Apryl'/10771, l='ServerLevel[New World]', x=1624.45, y=69.54, z=854.08] died: Apryl was slain by Zombie
+[16:26:19] [Server thread/INFO]: Named entity class_1641['Apryl'/17064, l='ServerLevel[New World]', x=1627.26, y=70.00, z=853.97] died: Apryl was slain by Iron Golem
