@@ -2755,3 +2755,8 @@ BCLib - The End  BiomeSource (2cb1726c)
 [19:50:50] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [19:50:54] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2152, 85, 215, minecraft:overworld
 [19:52:32] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2165, 82, 255, minecraft:overworld
+[19:58:39] [Server thread/INFO]: [elpatomaster: Set own game mode to Spectator Mode]
+[19:58:49] [Server thread/INFO]: [elpatomaster: Set own game mode to Survival Mode]
+[20:01:01] [Server thread/INFO]: elpatomaster has made the advancement [Super Creeps]
+[20:01:19] [Worker-Main-21/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20:01:27] [pool-12-thread-6/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_snowy], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest]] from pos class_2338{x=-1989, y=99, z=-181}

@@ -16941,6 +16941,12 @@
     },
     "done": false
   },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-02-17 18:52:32 +0000"
@@ -16989,6 +16995,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/cooked_meat": {
     "criteria": {
       "has_cooked_meat": "2025-02-17 19:38:22 +0000"
@@ -16998,6 +17010,12 @@
   "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
     "criteria": {
       "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
     },
     "done": true
   },
@@ -17073,6 +17091,24 @@
     },
     "done": true
   },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ram_armor_trim_smithing_template": "2025-02-17 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-17 19:52:23 +0000"
+    },
+    "done": true
+  },
   "endrem:main/corrupted_eye": {
     "criteria": {
       "corrupted_eye": "2025-02-17 19:32:46 +0000"
@@ -17112,6 +17148,12 @@
   "techreborn:recipes/compressor/nickel_plate": {
     "criteria": {
       "has_tag_c_nickel_ingots": "2025-02-17 19:33:11 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
     },
     "done": true
   },
