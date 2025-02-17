@@ -16632,39 +16632,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-02-17 18:23:38 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-02-17 18:00:54 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
-    "criteria": {
-      "has_item.betternether.cincinnasite": "2025-02-17 18:08:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-02-17 18:20:31 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
-    "criteria": {
-      "has_cinnabar_dust": "2025-02-17 18:08:23 +0000"
     },
     "done": true
   },
@@ -16680,27 +16650,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
-    },
-    "done": true
-  },
   "botania:recipes/tools/ender_hand": {
     "criteria": {
       "has_alt_item": "2025-02-17 18:00:54 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/cincinnasite_block": {
-    "criteria": {
-      "has_cincinnasite": "2025-02-17 18:08:28 +0000"
     },
     "done": true
   },
@@ -16710,57 +16662,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/pig": {
-    "criteria": {
-      "has_porkchop": "2025-02-17 18:20:31 +0000"
-    },
-    "done": true
-  },
   "adventurez:recipes/handbook_recipe": {
     "criteria": {
       "got_the_ender_eye": "2025-02-17 18:00:54 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/pork_and_beans": {
-    "criteria": {
-      "has_pork": "2025-02-17 18:20:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/carnitas": {
-    "criteria": {
-      "has_porkchop": "2025-02-17 18:20:31 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_bacon": {
-    "criteria": {
-      "has_porkchop": "2025-02-17 18:20:31 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-02-17 18:00:55 +0000"
     },
     "done": true
   },
@@ -16776,45 +16680,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-02-17 18:20:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
-    "criteria": {
-      "has_golden_boots": "2025-02-17 18:16:30 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/base_armors/teleportation_robe_helmet": {
     "criteria": {
       "has_ender_eye": "2025-02-17 18:00:54 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
-    "criteria": {
-      "has_item.betternether.cincinnasite": "2025-02-17 18:08:28 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
-    "criteria": {
-      "has_pyrite_dust": "2025-02-17 18:07:43 +0000"
     },
     "done": true
   },
@@ -16836,27 +16704,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "shot_crossbow": "2025-02-17 18:27:11 +0000"
+      "deflected_projectile": "2025-02-17 18:00:55 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/noodle_soup": {
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
     "criteria": {
-      "has_any_ingredient": "2025-02-17 18:20:31 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:downer": {
-    "criteria": {
-      "dorcel": "2025-02-17 18:21:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-02-17 18:20:31 +0000"
+      "has_pyrite_dust": "2025-02-17 18:07:43 +0000"
     },
     "done": true
   },
@@ -16866,9 +16722,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "techreborn:recipes/misc/crafting_table/small_dust/cinnabar_small_dust_from_dust": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+      "has_cinnabar_dust": "2025-02-17 18:08:23 +0000"
     },
     "done": true
   },
@@ -16878,9 +16734,201 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-17 18:08:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_block": {
+    "criteria": {
+      "has_cincinnasite": "2025-02-17 18:08:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/cincinnasite_ingot_from_shard_smelting": {
+    "criteria": {
+      "has_item.betternether.cincinnasite": "2025-02-17 18:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-02-17 18:13:17 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_chiseled_polished_blackstone": "2025-02-17 18:14:14 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-02-17 18:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-17 18:20:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-02-17 18:20:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2025-02-17 18:20:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2025-02-17 18:20:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2025-02-17 18:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-17 18:20:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-17 18:20:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-17 18:20:31 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-02-17 18:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-17 18:23:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-17 18:27:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2025-02-17 18:54:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-02-17 18:52:32 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_duck": {
+    "criteria": {
+      "has_duck": "2025-02-17 18:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-17 18:52:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-02-17 18:52:32 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-02-17 18:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-17 18:52:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-17 18:50:57 +0000"
     },
     "done": true
   },
