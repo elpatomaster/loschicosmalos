@@ -2535,3 +2535,17 @@ BCLib - Nether BiomeSource (152b2a0c)
 [18:02:52] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [18:03:06] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
 [18:03:12] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -23, 79, 28, minecraft:the_nether
+[18:13:35] [Server thread/INFO]: moreracamilo was slain by Piglin Brute
+[18:13:35] [Server thread/WARN]: moreracamilo moved wrongly!
+[18:13:37] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[18:13:50] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[18:13:50] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[18:13:54] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at 95, 61, 152, minecraft:the_nether
+[18:17:48] [Server thread/INFO]: elpatomaster was slain by Piglin Brute
+[18:17:50] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[18:18:04] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[18:18:10] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[18:18:20] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at 23, 71, 154, minecraft:the_nether
+[18:19:42] [Worker-Main-3/ERROR]: No key selector in MapLike[{event_delay:0,event_distance:4.1231055f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[18:21:19] [Server thread/INFO]: moreracamilo has made the advancement [Downer]
+[18:21:42] [Server thread/INFO]: elpatomaster has made the advancement [Downer]

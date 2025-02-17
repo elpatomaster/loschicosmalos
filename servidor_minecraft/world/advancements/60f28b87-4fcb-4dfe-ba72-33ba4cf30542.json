@@ -591,6 +591,7 @@
       "mycotoxic_undergrowth": "2025-02-17 17:29:31 +0000",
       "highland_fields": "2025-02-11 21:35:45 +0000",
       "sparse_redwoods": "2025-02-16 15:55:47 +0000",
+      "infernal_holt": "2025-02-17 18:20:04 +0000",
       "bamboo_forest": "2025-02-15 21:22:53 +0000",
       "temperate_grove": "2025-02-11 21:07:58 +0000",
       "grassland": "2025-02-15 21:54:26 +0000",
@@ -5416,15 +5417,19 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-11 21:34:41 +0000",
+      "minecraft:blaze": "2025-02-17 18:13:27 +0000",
       "minecraft:skeleton": "2025-02-11 21:37:44 +0000",
       "minecraft:ravager": "2025-02-15 23:07:17 +0000",
       "minecraft:vindicator": "2025-02-15 22:26:40 +0000",
       "minecraft:spider": "2025-02-13 02:09:28 +0000",
+      "minecraft:piglin_brute": "2025-02-17 18:15:42 +0000",
       "minecraft:creeper": "2025-02-15 21:38:29 +0000",
       "minecraft:phantom": "2025-02-16 16:43:27 +0000",
+      "minecraft:zombified_piglin": "2025-02-17 18:03:39 +0000",
       "minecraft:witch": "2025-02-15 22:26:59 +0000",
       "minecraft:wither_skeleton": "2025-02-15 22:44:53 +0000",
       "minecraft:cave_spider": "2025-02-15 23:29:44 +0000",
+      "minecraft:piglin": "2025-02-17 18:14:39 +0000",
       "minecraft:silverfish": "2025-02-16 16:41:03 +0000",
       "minecraft:zombie": "2025-02-11 21:37:04 +0000",
       "minecraft:zombie_villager": "2025-02-15 21:29:53 +0000"
@@ -13690,7 +13695,8 @@
   },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
-      "mycotoxic_undergrowth": "2025-02-17 17:29:31 +0000"
+      "mycotoxic_undergrowth": "2025-02-17 17:29:31 +0000",
+      "infernal_holt": "2025-02-17 18:20:04 +0000"
     },
     "done": false
   },
@@ -13796,6 +13802,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_nether_mushroom_stem": "2025-02-17 18:06:33 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_shovel": {
     "criteria": {
       "has_nether_reed_stem": "2025-02-17 17:45:13 +0000"
@@ -13838,6 +13850,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_mushroom_planks": {
+    "criteria": {
+      "has_nether_mushroom_stem": "2025-02-17 18:06:33 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_hoe": {
     "criteria": {
       "has_nether_reed_stem": "2025-02-17 17:45:13 +0000"
@@ -13850,9 +13868,16 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_boots": {
+    "criteria": {
+      "has_golden_boots": "2025-02-17 18:17:04 +0000"
+    },
+    "done": true
+  },
   "betternether:nether_wood": {
     "criteria": {
-      "got_nether_reed": "2025-02-17 17:45:13 +0000"
+      "got_nether_reed": "2025-02-17 17:45:13 +0000",
+      "got_nether_mushroom": "2025-02-17 18:06:33 +0000"
     },
     "done": false
   },
@@ -13883,6 +13908,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-02-17 17:47:55 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:downer": {
+    "criteria": {
+      "dorcel": "2025-02-17 18:21:19 +0000"
     },
     "done": true
   },
