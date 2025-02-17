@@ -594,6 +594,7 @@
       "infernal_holt": "2025-02-17 18:20:00 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
       "temperate_grove": "2025-02-11 21:05:43 +0000",
+      "pine_slopes": "2025-02-17 19:00:23 +0000",
       "grassland": "2025-02-15 21:54:05 +0000",
       "prairie": "2025-02-16 16:41:35 +0000",
       "redwoods": "2025-02-16 15:49:18 +0000",
@@ -614,6 +615,7 @@
       "sparse_redwoods": "2025-02-16 15:55:46 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
       "temperate_grove": "2025-02-11 21:05:43 +0000",
+      "pine_slopes": "2025-02-17 19:00:23 +0000",
       "grassland": "2025-02-15 21:54:05 +0000",
       "prairie": "2025-02-16 16:41:35 +0000",
       "redwoods": "2025-02-16 15:49:18 +0000",
@@ -1012,7 +1014,9 @@
       "minecraft:dark_forest": "2025-02-11 21:47:35 +0000",
       "minecraft:sparse_jungle": "2025-02-16 15:54:43 +0000",
       "minecraft:river": "2025-02-11 21:14:04 +0000",
+      "minecraft:stony_shore": "2025-02-17 19:03:34 +0000",
       "minecraft:dripstone_caves": "2025-02-15 21:55:23 +0000",
+      "minecraft:cold_ocean": "2025-02-17 19:03:47 +0000",
       "minecraft:forest": "2025-02-15 21:45:16 +0000",
       "minecraft:jungle": "2025-02-16 15:48:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 15:54:45 +0000",
@@ -16884,6 +16888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-17 19:07:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:calico": "2025-02-17 18:54:17 +0000"
@@ -16920,9 +16930,33 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/scrap_box": {
+    "criteria": {
+      "has_scrap": "2025-02-17 18:58:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-02-17 18:52:32 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-02-17 19:07:04 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-02-17 19:02:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-17 19:07:04 +0000"
     },
     "done": true
   },
