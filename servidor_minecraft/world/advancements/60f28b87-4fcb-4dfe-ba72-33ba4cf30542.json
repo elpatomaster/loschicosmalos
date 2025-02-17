@@ -13689,6 +13689,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:gravel_desert": "2025-02-17 17:25:50 +0000",
+      "betternether:upside_down_forest": "2025-02-17 18:27:06 +0000",
       "betternether:nether_jungle": "2025-02-17 17:26:56 +0000"
     },
     "done": false
@@ -13765,6 +13766,12 @@
       "has_nether_ruby": "2025-02-17 17:31:00 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-17 18:23:40 +0000"
+    },
+    "done": false
   },
   "supplementaries:recipes/flint_block": {
     "criteria": {
@@ -13874,6 +13881,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/pyrite_small_dust_from_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-02-17 18:25:45 +0000"
+    },
+    "done": true
+  },
   "betternether:nether_wood": {
     "criteria": {
       "got_nether_reed": "2025-02-17 17:45:13 +0000",
@@ -13914,6 +13927,12 @@
   "regions_unexplored:downer": {
     "criteria": {
       "dorcel": "2025-02-17 18:21:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/pyrite_dust": {
+    "criteria": {
+      "has_pyrite_dust": "2025-02-17 18:25:45 +0000"
     },
     "done": true
   },

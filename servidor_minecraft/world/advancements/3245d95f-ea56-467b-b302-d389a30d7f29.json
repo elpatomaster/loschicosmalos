@@ -16314,6 +16314,7 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:gravel_desert": "2025-02-17 17:25:46 +0000",
+      "betternether:upside_down_forest": "2025-02-17 18:27:03 +0000",
       "betternether:nether_jungle": "2025-02-17 17:26:45 +0000"
     },
     "done": false
@@ -16631,6 +16632,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-17 18:23:38 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-02-17 18:00:54 +0000"
@@ -16826,6 +16833,12 @@
   "botania:recipes/redstone/ender_eye_block": {
     "criteria": {
       "has_item": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-17 18:27:11 +0000"
     },
     "done": true
   },
