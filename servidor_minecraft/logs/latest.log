@@ -2679,3 +2679,79 @@ BCLib - The End  BiomeSource (2cb1726c)
 [19:37:08] [Server thread/INFO]: Named entity class_1646['Edwin'/28600, l='ServerLevel[New World]', x=-2129.65, y=86.00, z=218.68] died: Edwin was slain by Vindicator
 [19:42:04] [Server thread/INFO]: Villager class_1646['Thad'/28613, l='ServerLevel[New World]', x=-2141.70, y=93.00, z=181.58] died, message: 'Thad was slain by Zombie'
 [19:42:04] [Server thread/INFO]: Named entity class_1646['Thad'/28613, l='ServerLevel[New World]', x=-2141.70, y=93.00, z=181.58] died: Thad was slain by Zombie
+[19:43:46] [Server thread/INFO]: Villager class_1646['Carson'/28591, l='ServerLevel[New World]', x=-2135.19, y=86.00, z=217.53] died, message: 'Carson was slain by Vindicator'
+[19:43:46] [Server thread/INFO]: Named entity class_1646['Carson'/28591, l='ServerLevel[New World]', x=-2135.19, y=86.00, z=217.53] died: Carson was slain by Vindicator
+[19:43:47] [Server thread/INFO]: elpatomaster has completed the challenge [The Magicians]
+[19:43:47] [Server thread/INFO]: Villager class_1646['Fae'/28556, l='ServerLevel[New World]', x=-2139.52, y=86.00, z=218.82] died, message: 'Fae was slain by Vindicator'
+[19:43:47] [Server thread/INFO]: Named entity class_1646['Fae'/28556, l='ServerLevel[New World]', x=-2139.52, y=86.00, z=218.82] died: Fae was slain by Vindicator
+[19:43:49] [Server thread/INFO]: elpatomaster was slain by Vex
+[19:43:51] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:43:58] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2126, 88, 203, minecraft:overworld
+[19:44:32] [Server thread/INFO]: Villager class_1646['Jann'/28590, l='ServerLevel[New World]', x=-2179.54, y=84.00, z=229.12] died, message: 'Jann was slain by Vindicator'
+[19:44:32] [Server thread/INFO]: Named entity class_1646['Jann'/28590, l='ServerLevel[New World]', x=-2179.54, y=84.00, z=229.12] died: Jann was slain by Vindicator
+[19:44:42] [Server thread/INFO]: Villager class_1646['Josefine'/28598, l='ServerLevel[New World]', x=-2174.70, y=85.42, z=235.73] died, message: 'Josefine was slain by Vindicator'
+[19:44:42] [Server thread/INFO]: Named entity class_1646['Josefine'/28598, l='ServerLevel[New World]', x=-2174.70, y=85.42, z=235.73] died: Josefine was slain by Vindicator
+[19:44:46] [Server thread/INFO]: elpatomaster was slain by Ravager
+[19:44:46] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19:44:46] [Netty Epoll Server IO #3/ERROR]: Combo count: 5 is dual wielding: false
+[19:44:46] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[19:44:46] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[19:44:46] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 4 | client: 4
+[19:44:47] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:44:51] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2148, 86, 212, minecraft:overworld
+[19:46:39] [Server thread/INFO]: elpatomaster was slain by Ravager
+[19:46:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:46:47] [Server thread/INFO]: Villager class_1646['Remedios'/28614, l='ServerLevel[New World]', x=-2183.09, y=84.00, z=237.88] died, message: 'Remedios was slain by Vex'
+[19:46:47] [Server thread/INFO]: Named entity class_1646['Remedios'/28614, l='ServerLevel[New World]', x=-2183.09, y=84.00, z=237.88] died: Remedios was slain by Vex
+[19:46:49] [Server thread/INFO]: Villager class_1646['Kristeen'/28595, l='ServerLevel[New World]', x=-2178.16, y=86.02, z=233.86] died, message: 'Kristeen was slain by Vindicator'
+[19:46:49] [Server thread/INFO]: Named entity class_1646['Kristeen'/28595, l='ServerLevel[New World]', x=-2178.16, y=86.02, z=233.86] died: Kristeen was slain by Vindicator
+[19:46:56] [Server thread/INFO]: Villager class_1646['Harley'/28099, l='ServerLevel[New World]', x=-2180.30, y=83.00, z=230.40] died, message: 'Harley was slain by Vindicator'
+[19:46:56] [Server thread/INFO]: Named entity class_1646['Harley'/28099, l='ServerLevel[New World]', x=-2180.30, y=83.00, z=230.40] died: Harley was slain by Vindicator
+[19:46:58] [Server thread/INFO]: elpatomaster was slain by Vindicator
+[19:46:59] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:47:10] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2167, 84, 255, minecraft:overworld
+[19:47:28] [Server thread/INFO]: elpatomaster has reached the goal [Postmortal]
+[19:47:38] [Server thread/INFO]: Villager class_1646['Inger'/28555, l='ServerLevel[New World]', x=-2114.70, y=87.00, z=211.62] died, message: 'Inger was slain by Vindicator'
+[19:47:38] [Server thread/INFO]: Named entity class_1646['Inger'/28555, l='ServerLevel[New World]', x=-2114.70, y=87.00, z=211.62] died: Inger was slain by Vindicator
+[19:47:39] [Server thread/WARN]: Lithium Class Analysis Error: Class com.faboslav.friendsandfoes.entity.PlayerIllusionEntity cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_640. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[19:47:39] [Server thread/WARN]: Lithium Class Analysis Error: Class com.faboslav.friendsandfoes.entity.PlayerIllusionEntity cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_640. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[19:47:59] [Server thread/INFO]: elpatomaster was shot by Illusioner
+[19:47:59] [Netty Epoll Server IO #3/ERROR]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19:47:59] [Netty Epoll Server IO #3/ERROR]: Combo count: 10 is dual wielding: false
+[19:47:59] [Netty Epoll Server IO #3/ERROR]: Main-hand stack: 0 air
+[19:47:59] [Netty Epoll Server IO #3/ERROR]: Off-hand stack: 0 air
+[19:47:59] [Netty Epoll Server IO #3/ERROR]: Selected slot server: 4 | client: 4
+[19:48:01] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:48:05] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2154, 84, 226, minecraft:overworld
+[19:48:08] [Server thread/INFO]: elpatomaster was slain by Vindicator
+[19:48:10] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:48:15] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2152, 80, 228, minecraft:overworld
+[19:48:15] [Server thread/INFO]: elpatomaster was slain by Vindicator
+[19:48:17] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:48:24] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2150, 80, 226, minecraft:overworld
+[19:48:30] [Server thread/INFO]: elpatomaster was slain by Vindicator
+[19:48:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:48:39] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2151, 79, 235, minecraft:overworld
+[19:48:39] [Server thread/INFO]: elpatomaster was slain by Vindicator
+[19:48:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:48:44] [Server thread/INFO]: Villager class_1646['Augustine'/28557, l='ServerLevel[New World]', x=-2164.69, y=90.00, z=213.55] died, message: 'Augustine was slain by Vex'
+[19:48:44] [Server thread/INFO]: Named entity class_1646['Augustine'/28557, l='ServerLevel[New World]', x=-2164.69, y=90.00, z=213.55] died: Augustine was slain by Vex
+[19:48:47] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2152, 79, 235, minecraft:overworld
+[19:48:54] [Server thread/INFO]: Villager class_1646['Lorriane'/28594, l='ServerLevel[New World]', x=-2175.24, y=99.50, z=248.18] died, message: 'Lorriane hit the ground too hard'
+[19:48:54] [Server thread/INFO]: Named entity class_1646['Lorriane'/28594, l='ServerLevel[New World]', x=-2175.24, y=99.50, z=248.18] died: Lorriane hit the ground too hard
+[19:49:02] [Server thread/INFO]: elpatomaster was slain by Ravager
+[19:49:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:49:09] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2130, 78, 234, minecraft:overworld
+[19:49:21] [Server thread/INFO]: elpatomaster was killed by magic
+[19:49:22] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:49:31] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2132, 78, 238, minecraft:overworld
+[19:49:40] [Server thread/INFO]: elpatomaster was slain by Vex
+[19:49:42] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:49:53] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2137, 75, 259, minecraft:overworld
+[19:50:16] [Server thread/INFO]: elpatomaster was slain by Ravager
+[19:50:18] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:50:29] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2151, 78, 237, minecraft:overworld
+[19:50:49] [Server thread/INFO]: elpatomaster was slain by Vex
+[19:50:50] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:50:54] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2152, 85, 215, minecraft:overworld
+[19:52:32] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2165, 82, 255, minecraft:overworld

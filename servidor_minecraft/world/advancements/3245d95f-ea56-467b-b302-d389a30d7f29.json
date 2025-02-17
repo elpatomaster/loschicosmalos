@@ -6520,10 +6520,11 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-02-17 19:43:47 +0000",
       "killed_illusioner": "2025-02-11 21:34:04 +0000",
       "killed_iceologer": "2025-02-17 19:16:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -6567,6 +6568,7 @@
       "minecraft:spider": "2025-02-13 02:28:25 +0000",
       "minecraft:piglin_brute": "2025-02-17 18:12:17 +0000",
       "minecraft:creeper": "2025-02-13 02:42:23 +0000",
+      "minecraft:evoker": "2025-02-17 19:43:47 +0000",
       "minecraft:zombified_piglin": "2025-02-17 17:57:42 +0000",
       "minecraft:witch": "2025-02-15 22:27:08 +0000",
       "minecraft:wither_skeleton": "2025-02-15 22:43:40 +0000",
@@ -6574,6 +6576,7 @@
       "minecraft:piglin": "2025-02-17 18:14:39 +0000",
       "minecraft:enderman": "2025-02-13 02:42:59 +0000",
       "minecraft:silverfish": "2025-02-16 16:41:10 +0000",
+      "minecraft:vex": "2025-02-17 19:44:02 +0000",
       "minecraft:zombie": "2025-02-11 21:36:50 +0000",
       "minecraft:zombie_villager": "2025-02-13 16:12:02 +0000"
     },
@@ -16950,6 +16953,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-17 19:47:28 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_duck": {
     "criteria": {
       "has_duck": "2025-02-17 18:54:25 +0000"
@@ -17109,6 +17118,12 @@
   "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
     "criteria": {
       "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-02-17 19:40:28 +0000"
     },
     "done": true
   },
