@@ -2664,3 +2664,18 @@ BCLib - The End  BiomeSource (2cb1726c)
 [19:31:43] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 4.652196914318825
 [19:31:44] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 5.996888676702722
 [19:32:46] [Server thread/INFO]: elpatomaster has made the advancement [Cover Me In Emeralds]
+[19:34:25] [Worker-Main-21/WARN]: Empty or non-existent pool: minecraft:
+[19:34:25] [Worker-Main-21/WARN]: Empty or non-existent pool: minecraft:
+[19:34:25] [Worker-Main-21/WARN]: Empty or non-existent pool: minecraft:
+[19:34:25] [Worker-Main-21/WARN]: Empty or non-existent pool: minecraft:
+[19:34:25] [Worker-Main-21/WARN]: Empty or non-existent pool: minecraft:
+[19:34:25] [Worker-Main-21/WARN]: Empty or non-existent pool: minecraft:
+[19:34:25] [Worker-Main-21/WARN]: Empty or non-existent pool: minecraft:
+[19:34:25] [Worker-Main-21/WARN]: Empty or non-existent pool: minecraft:
+[19:34:36] [Worker-Main-21/WARN]: Tried to access a block entity before it was created. class_2338{x=-2151, y=87, z=212}
+[19:34:36] [Worker-Main-21/WARN]: Tried to access a block entity before it was created. class_2338{x=-2151, y=87, z=212}
+[19:35:10] [pool-12-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:small/village_taiga], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean]] from pos class_2338{x=-2309, y=70, z=5}
+[19:37:08] [Server thread/INFO]: Villager class_1646['Edwin'/28600, l='ServerLevel[New World]', x=-2129.65, y=86.00, z=218.68] died, message: 'Edwin was slain by Vindicator'
+[19:37:08] [Server thread/INFO]: Named entity class_1646['Edwin'/28600, l='ServerLevel[New World]', x=-2129.65, y=86.00, z=218.68] died: Edwin was slain by Vindicator
+[19:42:04] [Server thread/INFO]: Villager class_1646['Thad'/28613, l='ServerLevel[New World]', x=-2141.70, y=93.00, z=181.58] died, message: 'Thad was slain by Zombie'
+[19:42:04] [Server thread/INFO]: Named entity class_1646['Thad'/28613, l='ServerLevel[New World]', x=-2141.70, y=93.00, z=181.58] died: Thad was slain by Zombie

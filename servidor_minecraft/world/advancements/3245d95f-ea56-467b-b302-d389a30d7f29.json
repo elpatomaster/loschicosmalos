@@ -1031,6 +1031,7 @@
       "minecraft:snowy_plains": "2025-02-17 19:15:32 +0000",
       "minecraft:stony_shore": "2025-02-17 19:03:34 +0000",
       "minecraft:dripstone_caves": "2025-02-15 21:55:23 +0000",
+      "minecraft:snowy_taiga": "2025-02-17 19:34:31 +0000",
       "minecraft:cold_ocean": "2025-02-17 19:03:47 +0000",
       "minecraft:forest": "2025-02-15 21:45:16 +0000",
       "minecraft:ice_spikes": "2025-02-17 19:18:49 +0000",
@@ -6559,6 +6560,7 @@
       "minecraft:pillager": "2025-02-15 22:22:33 +0000",
       "minecraft:blaze": "2025-02-17 18:13:41 +0000",
       "minecraft:skeleton": "2025-02-11 21:37:46 +0000",
+      "minecraft:ravager": "2025-02-17 19:38:17 +0000",
       "minecraft:ghast": "2025-02-17 17:49:58 +0000",
       "minecraft:hoglin": "2025-02-17 18:20:29 +0000",
       "minecraft:vindicator": "2025-02-15 23:06:35 +0000",
@@ -16906,9 +16908,27 @@
     },
     "done": true
   },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-02-17 19:07:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
+    "criteria": {
+      "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
     },
     "done": true
   },
@@ -16924,9 +16944,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_duck": {
     "criteria": {
       "has_duck": "2025-02-17 18:54:25 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
     },
     "done": true
   },
@@ -16936,9 +16968,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-02-17 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-02-17 18:52:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_sawmill": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
+    "criteria": {
+      "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
     },
     "done": true
   },
@@ -16954,9 +17028,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_bass": {
     "criteria": {
       "has_bass": "2025-02-17 18:52:49 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
+    "criteria": {
+      "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-02-17 19:32:46 +0000"
     },
     "done": true
   },
@@ -16966,15 +17076,57 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/nickel_dust": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-02-17 19:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-02-17 19:09:20 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-02-17 18:52:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/nickel_plate": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-02-17 19:33:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_blast_furnace": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
     },
     "done": true
   },
@@ -16987,6 +17139,18 @@
   "techreborn:recipes/implosion_compressor/red_garnet_dust": {
     "criteria": {
       "has_redstone_block": "2025-02-17 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/assembling_machine": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/industrial_centrifuge": {
+    "criteria": {
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
     },
     "done": true
   },
@@ -17005,6 +17169,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-17 18:50:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
     },
     "done": true
   },
