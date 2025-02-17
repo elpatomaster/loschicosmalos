@@ -6539,6 +6539,7 @@
       "minecraft:vindicator": "2025-02-15 23:06:35 +0000",
       "minecraft:spider": "2025-02-13 02:28:25 +0000",
       "minecraft:creeper": "2025-02-13 02:42:23 +0000",
+      "minecraft:zombified_piglin": "2025-02-17 17:57:42 +0000",
       "minecraft:witch": "2025-02-15 22:27:08 +0000",
       "minecraft:wither_skeleton": "2025-02-15 22:43:40 +0000",
       "minecraft:cave_spider": "2025-02-15 23:29:19 +0000",
@@ -16600,9 +16601,9 @@
     },
     "done": true
   },
-  "betternether:ruby_tools": {
+  "betternether:recipes/misc/bn_red_mushroom": {
     "criteria": {
-      "nether_ruby_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-02-17 17:53:11 +0000"
+      "has_wall_mushroom_red": "2025-02-17 17:42:50 +0000"
     },
     "done": true
   },
@@ -16612,15 +16613,93 @@
     },
     "done": true
   },
-  "betternether:recipes/misc/bn_red_mushroom": {
-    "criteria": {
-      "has_wall_mushroom_red": "2025-02-17 17:42:50 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/food/agave_medicine": {
     "criteria": {
       "has_agave_leaf": "2025-02-17 17:49:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_tools": {
+    "criteria": {
+      "nether_ruby_EquipmentSlot[name\u003dpickaxe, category\u003dTOOLS]": "2025-02-17 17:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_boots": {
+    "criteria": {
+      "has_ender_eye": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/ender_hand": {
+    "criteria": {
+      "has_alt_item": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/handbook_recipe": {
+    "criteria": {
+      "got_the_ender_eye": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-17 18:00:55 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/itemfinder": {
+    "criteria": {
+      "has_item": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_leggings": {
+    "criteria": {
+      "has_ender_eye": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_helmet": {
+    "criteria": {
+      "has_ender_eye": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/eyes_recipe": {
+    "criteria": {
+      "eyes": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_void": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-17 18:00:54 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/ender_eye_block": {
+    "criteria": {
+      "has_item": "2025-02-17 18:00:54 +0000"
     },
     "done": true
   },
