@@ -16195,12 +16195,6 @@
     },
     "done": true
   },
-  "graveyard:graveyard/craft_coffin": {
-    "criteria": {
-      "coffin": "2025-02-17 16:49:03 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/quartz_pedestal": {
     "criteria": {
       "has_quartz_pillar": "2025-02-17 16:47:09 +0000"
@@ -16210,6 +16204,78 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_pillar": "2025-02-17 16:47:09 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2025-02-17 16:49:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-02-17 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_lantern": {
+    "criteria": {
+      "has_andesite_slab": "2025-02-17 17:22:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/green_bed_from_wool": {
+    "criteria": {
+      "has_green_wool": "2025-02-17 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-02-17 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_green_wool": "2025-02-17 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/green_sleeping_bag": {
+    "criteria": {
+      "has_green_wool": "2025-02-17 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_green_wool": "2025-02-17 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-17 17:22:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/green_sheet": {
+    "criteria": {
+      "has_green_sheet": "2025-02-17 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/green_cushion": {
+    "criteria": {
+      "has_green_cushion": "2025-02-17 17:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-02-17 17:23:39 +0000"
     },
     "done": true
   },

@@ -2480,3 +2480,38 @@ BCLib - Nether BiomeSource (6bdc61de)
 [17:16:28] [Server thread/WARN]: Marito (vehicle of moreracamilo) moved wrongly! 1.62015427508193
 [17:16:30] [Server thread/WARN]: Marito (vehicle of moreracamilo) moved wrongly! 0.36332852716964226
 [17:16:31] [Server thread/WARN]: Marito (vehicle of moreracamilo) moved wrongly! 0.7975581013865849
+[17:21:10] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[17:21:10] [Server thread/INFO]: elpatomaster left the game
+[17:21:10] [Server thread/INFO]: remove player wand
+[17:21:10] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:21:13] [User Authenticator #3/INFO]: UUID of player elpatomaster is 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:21:13] [Server thread/INFO]: [Handshake] Sending channel query
+[17:21:13] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[17:21:13] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[17:21:13] [Server thread/INFO]: elpatomaster[/10.241.83.103:65286] logged in with entity id 16811 at (95.74091296122154, 71.0, 215.61078392014838)
+[17:21:13] [Server thread/INFO]: Sending server config values to client
+[17:21:13] [Server thread/INFO]: Syncing config to elpatomaster (3245d95f-ea56-467b-b302-d389a30d7f29)
+[17:21:13] [Server thread/INFO]: Loading config from file...
+[17:21:13] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:21:13] [Server thread/INFO]: elpatomaster joined the game
+[17:21:13] [Server thread/INFO]: Loading Configs for Sortilege
+[17:21:13] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:21:14] [Server thread/INFO]: PLAYER_JOIN
+[17:21:14] [Server thread/INFO]: add_player wand
+[17:21:14] [Server thread/INFO]: config sent
+[17:21:14] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:21:15] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[17:21:16] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[17:21:16] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[17:21:17] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[17:25:33] [Server thread/INFO]: No return portal found
+[17:25:34] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[17:25:38] [Server thread/INFO]: elpatomaster has made the advancement [We Need to Go Deeper]
+[17:25:38] [Server thread/INFO]: elpatomaster has made the advancement [Time for a Sweat]
+[17:25:38] [Server thread/INFO]: elpatomaster has made the advancement [Nether Depths Upgrade]
+[17:25:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11587ms or 231 ticks behind
+[17:25:49] [Server thread/INFO]: No return portal found
+[17:25:49] [Server thread/INFO]: moreracamilo has made the advancement [We Need to Go Deeper]
+[17:25:49] [Server thread/INFO]: moreracamilo has made the advancement [Time for a Sweat]
+[17:25:49] [Server thread/INFO]: moreracamilo has made the advancement [Nether Depths Upgrade]
+[17:25:49] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
