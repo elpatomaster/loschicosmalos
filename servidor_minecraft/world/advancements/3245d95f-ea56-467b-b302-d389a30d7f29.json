@@ -597,6 +597,7 @@
       "boreal_forest": "2025-02-17 19:10:25 +0000",
       "infernal_holt": "2025-02-17 18:20:00 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
+      "cold_boreal_taiga": "2025-02-17 20:01:00 +0000",
       "temperate_grove": "2025-02-11 21:05:43 +0000",
       "cold_river": "2025-02-17 19:14:23 +0000",
       "pine_slopes": "2025-02-17 19:00:23 +0000",
@@ -624,6 +625,7 @@
       "sparse_redwoods": "2025-02-16 15:55:46 +0000",
       "boreal_forest": "2025-02-17 19:10:25 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
+      "cold_boreal_taiga": "2025-02-17 20:01:00 +0000",
       "temperate_grove": "2025-02-11 21:05:43 +0000",
       "cold_river": "2025-02-17 19:14:23 +0000",
       "pine_slopes": "2025-02-17 19:00:23 +0000",
@@ -1036,6 +1038,7 @@
       "minecraft:forest": "2025-02-15 21:45:16 +0000",
       "minecraft:ice_spikes": "2025-02-17 19:18:49 +0000",
       "minecraft:jungle": "2025-02-16 15:48:52 +0000",
+      "minecraft:snowy_beach": "2025-02-17 20:12:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 15:54:45 +0000",
       "minecraft:meadow": "2025-02-17 19:10:44 +0000",
       "minecraft:plains": "2025-02-15 22:22:00 +0000"
@@ -16983,6 +16986,18 @@
     },
     "done": true
   },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-02-17 20:01:01 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-02-17 20:12:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/chemical_reactor": {
     "criteria": {
       "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
@@ -16992,6 +17007,12 @@
   "techreborn:recipes/crafting_table/machine_block/advanced_machine_casing": {
     "criteria": {
       "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
     },
     "done": true
   },
@@ -17031,6 +17052,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
+    "criteria": {
+      "has_spruce_stairs": "2025-02-17 20:01:52 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-02-17 20:02:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
     "criteria": {
       "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
@@ -17058,6 +17091,12 @@
   "techreborn:recipes/crafting_table/machine/player_detector": {
     "criteria": {
       "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
     },
     "done": true
   },
@@ -17094,6 +17133,18 @@
   "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
     "criteria": {
       "has_ram_armor_trim_smithing_template": "2025-02-17 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-02-17 20:02:12 +0000"
     },
     "done": true
   },
@@ -17151,6 +17202,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/building_block/cut_blue_ice": {
     "criteria": {
       "has_blue_ice": "2025-02-17 19:51:14 +0000"
@@ -17175,9 +17238,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
     "criteria": {
       "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
     },
     "done": true
   },
