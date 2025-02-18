@@ -12917,7 +12917,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "brown_mushroom": "2025-02-15 23:55:31 +0000"
+      "brown_mushroom": "2025-02-15 23:55:31 +0000",
+      "potato": "2025-02-18 18:46:11 +0000"
     },
     "done": false
   },
@@ -17388,6 +17389,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_hoe": {
+    "criteria": {
+      "has_iron_hoe": "2025-02-18 18:41:48 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_bowl": {
     "criteria": {
       "has_wood_bowl": "2025-02-18 18:37:12 +0000"
@@ -17424,9 +17431,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-02-18 18:48:02 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-02-18 18:37:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/poisonous_potato": {
+    "criteria": {
+      "has_poisonous_potato": "2025-02-18 18:48:02 +0000"
     },
     "done": true
   },
