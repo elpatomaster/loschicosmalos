@@ -2447,3 +2447,6 @@ BCLib - Nether BiomeSource (1ff81fcc)
 [18:26:56] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [18:31:11] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [18:34:31] [Server thread/INFO]: [elpatomaster: Set the weather to clear]
+[18:55:13] [Server thread/INFO]: Villager class_1646['Glady'/167, l='ServerLevel[New World]', x=109.09, y=71.00, z=219.45] died, message: 'Glady was slain by Zombie'
+[18:55:13] [Server thread/INFO]: Named entity class_1646['Glady'/167, l='ServerLevel[New World]', x=109.09, y=71.00, z=219.45] died: Glady was slain by Zombie
+[18:55:33] [Server thread/INFO]: Named entity class_1641['Glady'/4900, l='ServerLevel[New World]', x=113.82, y=71.00, z=212.56] died: Glady was slain by elpatomaster

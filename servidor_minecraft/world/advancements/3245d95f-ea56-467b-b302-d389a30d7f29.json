@@ -17383,9 +17383,21 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/light_gray_coffin": {
+    "criteria": {
+      "has_item": "2025-02-18 18:51:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_slabs": {
     "criteria": {
       "has_tag_minecraft_wooden_slabs": "2025-02-18 18:37:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_dispenser": {
+    "criteria": {
+      "has_base_block": "2025-02-18 18:57:57 +0000"
     },
     "done": true
   },
@@ -17404,6 +17416,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-02-18 18:37:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-02-18 18:52:49 +0000"
     },
     "done": true
   },
