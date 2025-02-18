@@ -2446,3 +2446,4 @@ BCLib - Nether BiomeSource (1ff81fcc)
 [18:26:56] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
 [18:26:56] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [18:31:11] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[18:34:31] [Server thread/INFO]: [elpatomaster: Set the weather to clear]
