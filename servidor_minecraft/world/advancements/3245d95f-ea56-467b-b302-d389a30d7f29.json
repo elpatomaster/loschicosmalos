@@ -16914,39 +16914,9 @@
     },
     "done": true
   },
-  "brewery:recipes/fried_chicken": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
-    "criteria": {
-      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-02-17 19:07:04 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
-    "criteria": {
-      "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:calico": "2025-02-17 18:54:17 +0000"
-    },
-    "done": false
-  },
-  "mcdw:recipes/bows/bow_shivering_bow": {
-    "criteria": {
-      "has_blue_ice": "2025-02-17 19:51:14 +0000"
+      "traded": "2025-02-17 18:50:57 +0000"
     },
     "done": true
   },
@@ -16956,17 +16926,35 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/parts/digital_display": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+      "has_salmon": "2025-02-17 18:52:32 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/totem_of_undying": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "used_totem": "2025-02-17 19:47:28 +0000"
+      "has_salmon": "2025-02-17 18:52:32 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-02-17 18:52:32 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-02-17 18:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2025-02-17 18:54:17 +0000"
+    },
+    "done": false
   },
   "naturalist:recipes/food/cooked_duck": {
     "criteria": {
@@ -16974,9 +16962,51 @@
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+  "techreborn:recipes/crafting_table/scrap_box": {
     "criteria": {
-      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+      "has_scrap": "2025-02-17 18:58:53 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-02-17 19:02:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-17 19:07:04 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-02-17 19:07:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-17 19:07:04 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/redstone_plate": {
+    "criteria": {
+      "has_redstone_block": "2025-02-17 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-02-17 19:09:20 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
+    "criteria": {
+      "has_redstone_block": "2025-02-17 19:09:20 +0000"
     },
     "done": true
   },
@@ -16986,15 +17016,21 @@
     },
     "done": true
   },
-  "dungeons_arise:find_infested_temple": {
+  "techreborn:recipes/crafting_table/machine/implosion_compressor": {
     "criteria": {
-      "location0": "2025-02-17 20:01:01 +0000"
+      "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_lighthouse": {
+  "techreborn:recipes/crafting_table/parts/digital_display": {
     "criteria": {
-      "location0": "2025-02-17 20:12:28 +0000"
+      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
     },
     "done": true
   },
@@ -17010,39 +17046,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/extractor/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-02-17 20:06:46 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-02-17 19:51:14 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/cooked_meat": {
-    "criteria": {
-      "has_cooked_meat": "2025-02-17 19:38:22 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/machine/greenhouse_controller": {
     "criteria": {
       "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-02-17 19:51:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-02-17 18:52:32 +0000"
     },
     "done": true
   },
@@ -17052,39 +17058,9 @@
     },
     "done": true
   },
-  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
-    "criteria": {
-      "has_spruce_stairs": "2025-02-17 20:01:52 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/pork_knuckle": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-02-17 20:02:12 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
-    "criteria": {
-      "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/solar_panel/ultimate_solar_panel_alt": {
     "criteria": {
       "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2025-02-17 18:52:32 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/redstone_plate": {
-    "criteria": {
-      "has_redstone_block": "2025-02-17 19:09:20 +0000"
     },
     "done": true
   },
@@ -17094,27 +17070,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-02-17 20:06:46 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/food/cooked_bass": {
-    "criteria": {
-      "has_bass": "2025-02-17 18:52:49 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
     "criteria": {
       "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
-    "criteria": {
-      "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
     },
     "done": true
   },
@@ -17130,93 +17088,9 @@
     },
     "done": true
   },
-  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
-    "criteria": {
-      "has_ram_armor_trim_smithing_template": "2025-02-17 19:52:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-02-17 20:06:46 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/ham_sandwich": {
-    "criteria": {
-      "has_cooked_porkchop": "2025-02-17 20:02:12 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
-    "criteria": {
-      "has_blue_ice": "2025-02-17 19:51:14 +0000"
-    },
-    "done": true
-  },
-  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-02-17 19:52:23 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/corrupted_eye": {
-    "criteria": {
-      "corrupted_eye": "2025-02-17 19:32:46 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/crafting_table/scrap_box": {
-    "criteria": {
-      "has_scrap": "2025-02-17 18:58:53 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/grinder/nickel_dust": {
-    "criteria": {
-      "has_tag_c_nickel_ingots": "2025-02-17 19:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-02-17 19:09:20 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
     "criteria": {
       "has_advanced_circuit": "2025-02-17 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-02-17 18:52:32 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/compressor/nickel_plate": {
-    "criteria": {
-      "has_tag_c_nickel_ingots": "2025-02-17 19:33:11 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/beetroot_salad": {
-    "criteria": {
-      "has_beetroot": "2025-02-17 20:06:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-17 20:06:46 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/building_block/cut_blue_ice": {
-    "criteria": {
-      "has_blue_ice": "2025-02-17 19:51:14 +0000"
     },
     "done": true
   },
@@ -17226,51 +17100,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/spruce_shrub": {
-    "criteria": {
-      "has_spruce_sapling": "2025-02-17 19:40:28 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/centrifuge/beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-02-17 20:06:46 +0000"
-    },
-    "done": true
-  },
   "techreborn:recipes/crafting_table/machine_block/industrial_machine_frame": {
     "criteria": {
       "has_advanced_machine_frame": "2025-02-17 19:32:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-02-17 20:06:46 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/cashew_chicken": {
-    "criteria": {
-      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
-    },
-    "done": true
-  },
-  "promenade:recipes/crafting/vanilla_piles/poppy": {
-    "criteria": {
-      "has_flower": "2025-02-17 19:07:04 +0000"
-    },
-    "done": true
-  },
-  "techreborn:recipes/implosion_compressor/red_garnet_dust": {
-    "criteria": {
-      "has_redstone_block": "2025-02-17 19:09:20 +0000"
     },
     "done": true
   },
@@ -17286,27 +17118,261 @@
     },
     "done": true
   },
-  "graveyard:graveyard/dead_tree": {
+  "endrem:main/corrupted_eye": {
     "criteria": {
-      "dead_tree": "2025-02-17 19:02:18 +0000"
+      "corrupted_eye": "2025-02-17 19:32:46 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/extractor/red_dye_from_poppy": {
+  "techreborn:recipes/rolling_machine/cupronickel_heating_coil": {
     "criteria": {
-      "has_poppy": "2025-02-17 19:07:04 +0000"
+      "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "techreborn:recipes/misc/crafting_table/nugget/nickel_nugget": {
     "criteria": {
-      "traded": "2025-02-17 18:50:57 +0000"
+      "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/nickel_storage_block": {
+    "criteria": {
+      "has_nickel_ingot": "2025-02-17 19:33:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/nickel_dust": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-02-17 19:33:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/nickel_plate": {
+    "criteria": {
+      "has_tag_c_nickel_ingots": "2025-02-17 19:33:11 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/fried_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/cooked_meat": {
+    "criteria": {
+      "has_cooked_meat": "2025-02-17 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-02-17 19:38:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_shrub": {
+    "criteria": {
+      "has_spruce_sapling": "2025-02-17 19:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-02-17 19:47:28 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-02-17 19:51:14 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ram_armor_trim_smithing_template": "2025-02-17 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "more_armor_trims:recipes/misc/ram_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-17 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-02-17 20:01:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/spruce_slab_from_stairs": {
+    "criteria": {
+      "has_spruce_stairs": "2025-02-17 20:01:52 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pork_knuckle": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-02-17 20:02:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2025-02-17 20:02:12 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-17 20:06:46 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-02-17 20:12:28 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/chorus_fruit_on_a_stick_recipe": {
+    "criteria": {
+      "got_the_chorus_fruit": "2025-02-17 20:16:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2025-02-17 20:16:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/yellow_sleeping_bag": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-17 20:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-17 20:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-17 20:27:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_sheet": {
+    "criteria": {
+      "has_yellow_sheet": "2025-02-17 20:27:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-17 20:27:15 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-17 20:27:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cushion": {
+    "criteria": {
+      "has_yellow_cushion": "2025-02-17 20:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2025-02-17 20:27:15 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/magenta_coffin": {
+    "criteria": {
+      "has_item": "2025-02-17 20:29:22 +0000"
     },
     "done": true
   },
