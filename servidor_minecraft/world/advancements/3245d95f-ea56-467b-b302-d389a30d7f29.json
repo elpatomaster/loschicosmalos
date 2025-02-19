@@ -596,6 +596,7 @@
       "maple_forest": "2025-02-17 19:10:02 +0000",
       "sparse_redwoods": "2025-02-16 15:55:46 +0000",
       "boreal_forest": "2025-02-17 19:10:25 +0000",
+      "towering_cliffs": "2025-02-19 17:31:44 +0000",
       "infernal_holt": "2025-02-17 18:20:00 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
       "cold_boreal_taiga": "2025-02-17 20:01:00 +0000",
@@ -625,6 +626,7 @@
       "maple_forest": "2025-02-17 19:10:02 +0000",
       "sparse_redwoods": "2025-02-16 15:55:46 +0000",
       "boreal_forest": "2025-02-17 19:10:25 +0000",
+      "towering_cliffs": "2025-02-19 17:31:44 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
       "cold_boreal_taiga": "2025-02-17 20:01:00 +0000",
       "temperate_grove": "2025-02-11 21:05:43 +0000",
@@ -1038,6 +1040,7 @@
       "minecraft:cold_ocean": "2025-02-17 19:03:47 +0000",
       "minecraft:forest": "2025-02-15 21:45:16 +0000",
       "minecraft:ice_spikes": "2025-02-17 19:18:49 +0000",
+      "minecraft:windswept_forest": "2025-02-19 17:31:42 +0000",
       "minecraft:jungle": "2025-02-16 15:48:52 +0000",
       "minecraft:snowy_beach": "2025-02-17 20:12:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 15:54:45 +0000",
@@ -18085,6 +18088,42 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-02-19 00:42:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/tin_plate": {
+    "criteria": {
+      "has_tag_c_tin_ingots": "2025-02-19 17:28:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/tin_nugget": {
+    "criteria": {
+      "has_tin_ingot": "2025-02-19 17:28:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cable/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-02-19 17:28:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/wire_mill/tin_cable": {
+    "criteria": {
+      "has_tin_ingot": "2025-02-19 17:28:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/tin_storage_block": {
+    "criteria": {
+      "has_tin_ingot": "2025-02-19 17:28:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2025-02-19 17:28:59 +0000"
     },
     "done": true
   },
