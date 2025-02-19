@@ -610,6 +610,7 @@
       "prairie": "2025-02-16 16:41:35 +0000",
       "gravel_beach": "2025-02-19 17:41:58 +0000",
       "redwoods": "2025-02-16 15:49:18 +0000",
+      "golden_boreal_taiga": "2025-02-19 17:47:43 +0000",
       "icy_heights": "2025-02-17 19:14:29 +0000",
       "lupine_plains": "2025-02-13 02:17:36 +0000"
     },
@@ -643,6 +644,7 @@
       "prairie": "2025-02-16 16:41:35 +0000",
       "gravel_beach": "2025-02-19 17:41:58 +0000",
       "redwoods": "2025-02-16 15:49:18 +0000",
+      "golden_boreal_taiga": "2025-02-19 17:47:43 +0000",
       "icy_heights": "2025-02-17 19:14:29 +0000",
       "lupine_plains": "2025-02-13 02:17:36 +0000"
     },
@@ -18131,15 +18133,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/cell": {
+    "criteria": {
+      "has_tin_ingot": "2025-02-19 17:28:59 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-02-19 17:45:14 +0000"
     },
     "done": true
   },
-  "techreborn:recipes/crafting_table/cell": {
+  "graveyard:graveyard/large_graveyard": {
     "criteria": {
-      "has_tin_ingot": "2025-02-19 17:28:59 +0000"
+      "large_graveyard": "2025-02-19 17:48:44 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_necrodermal": {
+    "criteria": {
+      "has_alt_item": "2025-02-19 17:55:19 +0000"
     },
     "done": true
   },

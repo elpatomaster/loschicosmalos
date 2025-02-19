@@ -2527,3 +2527,55 @@ BCLib - Nether BiomeSource (1ff5755d)
 [17:48:44] [Server thread/INFO]: elpatomaster has made the advancement [Disturbing the Dead II]
 [17:49:11] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_dark_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:small/village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / ctov:large/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic]] from pos class_2338{x=1051, y=67, z=1835}
 [17:50:05] [Server thread/INFO]: <elpatomaster> a
+[17:51:26] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 0.259447479617279
+[17:51:26] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 0.6121839728788814
+[17:51:56] [Server thread/INFO]: elpatomaster lost connection: Disconnected
+[17:51:56] [Server thread/INFO]: elpatomaster left the game
+[17:51:56] [Server thread/INFO]: remove player wand
+[17:51:56] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:52:02] [User Authenticator #2/INFO]: UUID of player elpatomaster is 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:52:02] [Server thread/INFO]: [Handshake] Sending channel query
+[17:52:02] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[17:52:02] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[17:52:02] [Server thread/INFO]: elpatomaster[/10.241.83.103:55029] logged in with entity id 22795 at (767.1580890972145, 65.68125, 1567.6299990193563)
+[17:52:02] [Server thread/INFO]: Sending server config values to client
+[17:52:02] [Server thread/INFO]: Syncing config to elpatomaster (3245d95f-ea56-467b-b302-d389a30d7f29)
+[17:52:02] [Server thread/INFO]: Loading config from file...
+[17:52:03] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:52:03] [Server thread/INFO]: elpatomaster joined the game
+[17:52:03] [Server thread/INFO]: Loading Configs for Sortilege
+[17:52:03] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:52:03] [Server thread/INFO]: PLAYER_JOIN
+[17:52:03] [Server thread/INFO]: add_player wand
+[17:52:03] [Server thread/INFO]: config sent
+[17:52:03] [Server thread/INFO]: Updating all forceload tickets for 3245d95f-ea56-467b-b302-d389a30d7f29
+[17:52:04] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[17:52:05] [Netty Epoll Server IO #5/INFO]: [Ping-Wheel] Channel update: elpatomaster -> Global
+[17:52:05] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player elpatomaster. Claiming: GRAVE / Robbing: INVENTORY
+[17:52:06] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[17:56:58] [User Authenticator #3/INFO]: UUID of player moreracamilo is 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[17:56:58] [Server thread/INFO]: [Handshake] Sending channel query
+[17:56:58] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[17:56:58] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[17:56:58] [Server thread/INFO]: moreracamilo[/10.241.166.48:51190] logged in with entity id 25069 at (96.35277543870748, 71.0, 217.06644549035676)
+[17:56:58] [Server thread/INFO]: Sending server config values to client
+[17:56:58] [Server thread/INFO]: Syncing config to moreracamilo (60f28b87-4fcb-4dfe-ba72-33ba4cf30542)
+[17:56:58] [Server thread/INFO]: Loading config from file...
+[17:56:59] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:56:59] [Server thread/INFO]: moreracamilo joined the game
+[17:56:59] [Server thread/INFO]: Loading Configs for Sortilege
+[17:56:59] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[17:56:59] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[17:56:59] [Server thread/INFO]: PLAYER_JOIN
+[17:56:59] [Server thread/INFO]: add_player wand
+[17:56:59] [Server thread/INFO]: config sent
+[17:57:05] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[17:57:22] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: moreracamilo -> Global
+[17:57:22] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player moreracamilo. Claiming: GRAVE / Robbing: INVENTORY
+[17:57:27] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[17:58:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:58:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3940ms or 78 ticks behind
+[17:58:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3249ms or 64 ticks behind
+[17:59:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2659ms or 53 ticks behind
+[17:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3052ms or 61 ticks behind
+[17:59:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
