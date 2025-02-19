@@ -2606,3 +2606,45 @@ BCLib - Nether BiomeSource (1ff5755d)
 [18:53:32] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47940, l='ServerLevel[New World]', x=-2279.57, y=75.01, z=53.79] died: Dinnerbone was slain by elpatomaster
 [18:53:34] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47939, l='ServerLevel[New World]', x=-2288.35, y=75.01, z=56.27] died: Dinnerbone was slain by elpatomaster
 [18:53:36] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47412, l='ServerLevel[New World]', x=-2288.84, y=75.01, z=57.24] died: Dinnerbone was slain by elpatomaster
+[18:55:55] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48091, l='ServerLevel[New World]', x=-2287.39, y=75.01, z=43.96] died: Dinnerbone was shot by Dinnerbone
+[18:55:56] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47874, l='ServerLevel[New World]', x=-2287.64, y=75.01, z=43.30] died: Dinnerbone was slain by elpatomaster
+[18:55:57] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48140, l='ServerLevel[New World]', x=-2289.21, y=75.01, z=43.30] died: Dinnerbone was slain by elpatomaster
+[18:56:01] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47800, l='ServerLevel[New World]', x=-2283.53, y=75.01, z=45.09] died: Dinnerbone was slain by moreracamilo
+[18:56:05] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47615, l='ServerLevel[New World]', x=-2288.37, y=75.01, z=47.22] died: Dinnerbone was shot by Dinnerbone
+[18:56:06] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48541, l='ServerLevel[New World]', x=-2286.96, y=75.01, z=44.53] died: Dinnerbone was slain by elpatomaster
+[18:56:08] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48614, l='ServerLevel[New World]', x=-2282.62, y=75.01, z=49.85] died: Dinnerbone was slain by elpatomaster
+[18:56:10] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48663, l='ServerLevel[New World]', x=-2281.99, y=75.01, z=51.70] died: Dinnerbone was slain by elpatomaster
+[18:56:10] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48090, l='ServerLevel[New World]', x=-2283.65, y=75.01, z=50.45] died: Dinnerbone was slain by elpatomaster
+[18:56:19] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48484, l='ServerLevel[New World]', x=-2266.15, y=75.01, z=38.66] died: Dinnerbone was shot by Dinnerbone
+[18:56:34] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48485, l='ServerLevel[New World]', x=-2271.30, y=75.01, z=38.14] died: Dinnerbone was slain by moreracamilo
+[18:56:38] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47792, l='ServerLevel[New World]', x=-2267.23, y=75.01, z=35.13] died: Dinnerbone was slain by elpatomaster
+[18:56:39] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48483, l='ServerLevel[New World]', x=-2272.52, y=75.01, z=36.14] died: Dinnerbone was shot by Dinnerbone
+[18:56:41] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47793, l='ServerLevel[New World]', x=-2275.37, y=75.01, z=31.09] died: Dinnerbone was shot by Dinnerbone
+[18:56:42] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48486, l='ServerLevel[New World]', x=-2268.18, y=75.01, z=32.56] died: Dinnerbone was slain by elpatomaster
+[19:00:46] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47807, l='ServerLevel[New World]', x=-2284.30, y=83.01, z=51.70] died: Dinnerbone was slain by elpatomaster
+[19:00:46] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/49154, l='ServerLevel[New World]', x=-2283.30, y=83.01, z=50.70] died: Dinnerbone was slain by elpatomaster
+[19:00:47] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47808, l='ServerLevel[New World]', x=-2283.30, y=83.01, z=48.97] died: Dinnerbone was slain by moreracamilo
+[19:00:51] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47809, l='ServerLevel[New World]', x=-2279.31, y=83.01, z=43.55] died: Dinnerbone was slain by elpatomaster
+[19:00:51] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/49106, l='ServerLevel[New World]', x=-2279.30, y=83.01, z=49.95] died: Dinnerbone was slain by elpatomaster
+[19:00:53] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48850, l='ServerLevel[New World]', x=-2284.22, y=83.01, z=48.60] died: Dinnerbone was slain by elpatomaster
+[19:01:54] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48397, l='ServerLevel[New World]', x=-2269.30, y=83.01, z=63.04] died: Dinnerbone burned to death
+[19:02:09] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48396, l='ServerLevel[New World]', x=-2269.71, y=83.01, z=61.68] died: Dinnerbone was slain by elpatomaster
+[19:02:13] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48103, l='ServerLevel[New World]', x=-2279.70, y=84.01, z=54.70] died: Dinnerbone was slain by moreracamilo
+[19:02:17] [Server thread/INFO]: moreracamilo was slain by Wither Skeleton
+[19:02:21] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[19:02:42] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[19:02:48] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48104, l='ServerLevel[New World]', x=-2284.04, y=91.01, z=56.49] died: Dinnerbone was slain by elpatomaster
+[19:02:51] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48105, l='ServerLevel[New World]', x=-2288.79, y=91.01, z=58.08] died: Dinnerbone was slain by elpatomaster
+[19:02:59] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48398, l='ServerLevel[New World]', x=-2284.69, y=91.01, z=53.82] died: Dinnerbone was slain by elpatomaster
+[19:03:21] [Server thread/INFO]: elpatomaster was slain by Wither Skeleton
+[19:03:22] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:03:24] [Server thread/INFO]: [elpatomaster: Teleported elpatomaster to moreracamilo]
+[19:03:25] [Server thread/INFO]: elpatomaster claimed a grave belonging to elpatomaster at -2280, 87, 56, minecraft:overworld
+[19:03:28] [Server thread/INFO]: moreracamilo claimed a grave belonging to moreracamilo at -2283, 79, 54, minecraft:overworld
+[19:03:29] [Server thread/INFO]: moreracamilo withered away
+[19:03:30] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of moreracamilo accepted server config.
+[19:03:41] [Server thread/INFO]: moreracamilo lost connection: Disconnected
+[19:03:41] [Server thread/INFO]: moreracamilo left the game
+[19:03:41] [Server thread/INFO]: remove player wand
+[19:03:41] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
+[19:04:00] [Server thread/INFO]: [elpatomaster: Set 42 experience levels on elpatomaster]
