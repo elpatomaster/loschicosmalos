@@ -17566,6 +17566,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/baked_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-19 00:42:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-02-18 23:48:41 +0000"
@@ -17689,6 +17695,12 @@
   "supplementaries:recipes/statue": {
     "criteria": {
       "has_smooth_stone_slab": "2025-02-19 00:38:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-19 00:42:18 +0000"
     },
     "done": true
   },
@@ -18040,6 +18052,12 @@
     },
     "done": true
   },
+  "vinery:recipes/coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2025-02-19 00:39:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/extractor/bucket_from_lava_bucket": {
     "criteria": {
       "has_lava_bucket": "2025-02-18 23:59:49 +0000"
@@ -18061,6 +18079,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-18 23:55:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-19 00:42:18 +0000"
     },
     "done": true
   },
