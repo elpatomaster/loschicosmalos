@@ -18198,6 +18198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-19 18:47:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-19 18:20:30 +0000"
@@ -18270,6 +18276,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-19 18:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-19 18:47:45 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/oak_pressure_plate_from_slab": {
     "criteria": {
       "has_oak_slab": "2025-02-19 18:11:33 +0000"
@@ -18291,6 +18309,12 @@
   "botania:recipes/decorations/alchemy_catalyst": {
     "criteria": {
       "has_alt_item": "2025-02-19 18:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-19 18:47:45 +0000"
     },
     "done": true
   },
@@ -18339,6 +18363,12 @@
   "betterend:recipes/decorations/helix_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "quartzelv:recipes/building_blocks/smooth_quartz_elevator_from_smooth_quartz": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-19 18:47:45 +0000"
     },
     "done": true
   },

@@ -2591,3 +2591,18 @@ BCLib - Nether BiomeSource (1ff5755d)
 [18:40:21] [Server thread/INFO]: moreracamilo has made the advancement [Super Creeps]
 [18:40:57] [Server thread/INFO]: Villager class_1646['Trish'/44525, l='ServerLevel[New World]', x=-2171.36, y=84.00, z=234.67] died, message: 'Trish hit the ground too hard'
 [18:40:57] [Server thread/INFO]: Named entity class_1646['Trish'/44525, l='ServerLevel[New World]', x=-2171.36, y=84.00, z=234.67] died: Trish fell from a high place
+[18:48:18] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47466, l='ServerLevel[New World]', x=-2262.47, y=59.01, z=49.35] died: Dinnerbone was slain by elpatomaster
+[18:48:19] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47521, l='ServerLevel[New World]', x=-2257.60, y=59.01, z=47.60] died: Dinnerbone was slain by elpatomaster
+[18:50:14] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47795, l='ServerLevel[New World]', x=-2287.70, y=67.01, z=50.51] died: Dinnerbone was slain by elpatomaster
+[18:50:17] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47400, l='ServerLevel[New World]', x=-2279.38, y=67.01, z=43.32] died: Dinnerbone was slain by elpatomaster
+[18:50:20] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47401, l='ServerLevel[New World]', x=-2279.30, y=67.01, z=50.87] died: Dinnerbone was slain by moreracamilo
+[18:50:23] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47399, l='ServerLevel[New World]', x=-2281.80, y=67.01, z=47.63] died: Dinnerbone was slain by elpatomaster
+[18:50:26] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47643, l='ServerLevel[New World]', x=-2279.30, y=67.01, z=48.25] died: Dinnerbone was slain by moreracamilo
+[18:52:22] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47868, l='ServerLevel[New World]', x=-2283.43, y=75.01, z=62.59] died: Dinnerbone was shot by Dinnerbone
+[18:52:58] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47411, l='ServerLevel[New World]', x=-2279.30, y=68.01, z=58.30] died: Dinnerbone was slain by elpatomaster
+[18:53:01] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47869, l='ServerLevel[New World]', x=-2283.62, y=68.01, z=54.70] died: Dinnerbone was slain by elpatomaster
+[18:53:01] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48003, l='ServerLevel[New World]', x=-2284.69, y=68.01, z=54.71] died: Dinnerbone was slain by elpatomaster
+[18:53:19] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/48043, l='ServerLevel[New World]', x=-2280.52, y=75.01, z=54.99] died: Dinnerbone was shot by Dinnerbone
+[18:53:32] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47940, l='ServerLevel[New World]', x=-2279.57, y=75.01, z=53.79] died: Dinnerbone was slain by elpatomaster
+[18:53:34] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47939, l='ServerLevel[New World]', x=-2288.35, y=75.01, z=56.27] died: Dinnerbone was slain by elpatomaster
+[18:53:36] [Server thread/INFO]: Named entity class_1613['Dinnerbone'/47412, l='ServerLevel[New World]', x=-2288.84, y=75.01, z=57.24] died: Dinnerbone was slain by elpatomaster
