@@ -2658,3 +2658,6 @@ BCLib - Nether BiomeSource (1ff5755d)
 [19:15:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9457ms or 189 ticks behind
 [19:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2860ms or 57 ticks behind
 [19:17:54] [Server thread/INFO]: [elpatomaster: Gamerule randomTickSpeed is now set to: 20]
+[19:50:30] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of elpatomaster accepted server config.
+[19:52:41] [Server thread/INFO]: elpatomaster has made the advancement [A Terrible Fortress]
+[19:54:36] [Server thread/INFO]: elpatomaster has made the advancement [Into Fire]

@@ -6588,6 +6588,7 @@
       "minecraft:ghast": "2025-02-17 17:49:58 +0000",
       "minecraft:hoglin": "2025-02-17 18:20:29 +0000",
       "minecraft:vindicator": "2025-02-15 23:06:35 +0000",
+      "minecraft:magma_cube": "2025-02-19 19:51:29 +0000",
       "minecraft:spider": "2025-02-13 02:28:25 +0000",
       "minecraft:piglin_brute": "2025-02-17 18:12:17 +0000",
       "minecraft:creeper": "2025-02-13 02:42:23 +0000",
@@ -16368,8 +16369,11 @@
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:gravel_desert": "2025-02-17 17:25:46 +0000",
+      "betternether:old_swampland": "2025-02-19 19:51:13 +0000",
+      "betternether:nether_swampland": "2025-02-19 19:52:43 +0000",
       "betternether:upside_down_forest": "2025-02-17 18:27:03 +0000",
-      "betternether:nether_jungle": "2025-02-17 17:26:45 +0000"
+      "betternether:nether_jungle": "2025-02-17 17:26:45 +0000",
+      "betternether:nether_swampland_terraces": "2025-02-19 19:51:08 +0000"
     },
     "done": false
   },
@@ -18366,6 +18370,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-02-19 19:52:41 +0000"
+    },
+    "done": true
+  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
     "criteria": {
       "has_chain": "2025-02-19 18:20:30 +0000"
@@ -18375,6 +18385,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2025-02-19 18:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-19 19:51:38 +0000"
     },
     "done": true
   },
@@ -18396,6 +18412,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-19 19:52:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_tile_wall_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-19 19:06:04 +0000"
@@ -18414,6 +18436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-19 19:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-02-19 19:05:58 +0000"
@@ -18429,6 +18457,18 @@
   "betternether:recipes/decorations/anchor_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-02-19 19:51:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/magma_cream": {
+    "criteria": {
+      "has_magma_cream": "2025-02-19 19:51:38 +0000"
     },
     "done": true
   },
@@ -18468,6 +18508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-19 19:52:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-02-19 19:06:04 +0000"
@@ -18489,6 +18535,12 @@
   "fwaystones:recipes/stone_brick_waystone": {
     "criteria": {
       "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-19 19:52:38 +0000"
     },
     "done": true
   },
@@ -18582,6 +18634,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-19 19:52:38 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-02-19 18:11:33 +0000"
@@ -18669,6 +18727,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab": {
     "criteria": {
       "has_dark_prismarine": "2025-02-19 19:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-19 19:52:38 +0000"
     },
     "done": true
   },
