@@ -2588,3 +2588,6 @@ BCLib - Nether BiomeSource (1ff5755d)
 [18:31:48] [Server thread/INFO]: elpatomaster has completed the challenge [Expansion Unlock: Void's Invasion]
 [18:31:48] [Server thread/INFO]: moreracamilo has completed the challenge [Expansion Unlock: Void's Invasion]
 [18:31:48] [Server thread/INFO]: moreracamilo has completed the challenge [Night Vanquisher]
+[18:40:21] [Server thread/INFO]: moreracamilo has made the advancement [Super Creeps]
+[18:40:57] [Server thread/INFO]: Villager class_1646['Trish'/44525, l='ServerLevel[New World]', x=-2171.36, y=84.00, z=234.67] died, message: 'Trish hit the ground too hard'
+[18:40:57] [Server thread/INFO]: Named entity class_1646['Trish'/44525, l='ServerLevel[New World]', x=-2171.36, y=84.00, z=234.67] died: Trish fell from a high place
