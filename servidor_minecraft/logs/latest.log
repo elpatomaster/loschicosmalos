@@ -2580,3 +2580,11 @@ BCLib - Nether BiomeSource (1ff5755d)
 [17:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3052ms or 61 ticks behind
 [17:59:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
 [18:22:04] [Server thread/INFO]: [elpatomaster: Teleported moreracamilo to elpatomaster]
+[18:23:38] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 0.7196140895421195
+[18:23:38] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 1.6919845247180092
+[18:23:38] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 2.473228838567138
+[18:23:38] [Server thread/WARN]: Ramma (vehicle of elpatomaster) moved wrongly! 2.8912570945767584
+[18:25:04] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[18:31:48] [Server thread/INFO]: elpatomaster has completed the challenge [Expansion Unlock: Void's Invasion]
+[18:31:48] [Server thread/INFO]: moreracamilo has completed the challenge [Expansion Unlock: Void's Invasion]
+[18:31:48] [Server thread/INFO]: moreracamilo has completed the challenge [Night Vanquisher]

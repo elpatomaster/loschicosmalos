@@ -584,6 +584,7 @@
       "dry_bushland": "2025-02-16 16:46:52 +0000",
       "pine_taiga": "2025-02-11 21:29:27 +0000",
       "willow_forest": "2025-02-13 02:18:18 +0000",
+      "frozen_tundra": "2025-02-19 18:30:45 +0000",
       "redstone_caves": "2025-02-15 21:57:03 +0000",
       "grassy_beach": "2025-02-15 21:25:10 +0000",
       "blackwood_taiga": "2025-02-11 21:36:03 +0000",
@@ -597,6 +598,7 @@
       "grassland": "2025-02-15 21:54:26 +0000",
       "prairie": "2025-02-16 16:41:35 +0000",
       "redwoods": "2025-02-16 15:49:15 +0000",
+      "icy_heights": "2025-02-19 18:32:04 +0000",
       "lupine_plains": "2025-02-13 02:17:38 +0000"
     },
     "done": false
@@ -607,6 +609,7 @@
       "dry_bushland": "2025-02-16 16:46:52 +0000",
       "pine_taiga": "2025-02-11 21:29:27 +0000",
       "willow_forest": "2025-02-13 02:18:18 +0000",
+      "frozen_tundra": "2025-02-19 18:30:45 +0000",
       "grassy_beach": "2025-02-15 21:25:10 +0000",
       "blackwood_taiga": "2025-02-11 21:36:03 +0000",
       "rocky_meadow": "2025-02-16 15:42:08 +0000",
@@ -617,6 +620,7 @@
       "grassland": "2025-02-15 21:54:26 +0000",
       "prairie": "2025-02-16 16:41:35 +0000",
       "redwoods": "2025-02-16 15:49:15 +0000",
+      "icy_heights": "2025-02-19 18:32:04 +0000",
       "lupine_plains": "2025-02-13 02:17:38 +0000"
     },
     "done": false
@@ -1008,11 +1012,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-02-19 18:22:49 +0000",
       "minecraft:birch_forest": "2025-02-11 21:47:33 +0000",
       "minecraft:dark_forest": "2025-02-11 21:47:29 +0000",
       "minecraft:sparse_jungle": "2025-02-16 15:54:46 +0000",
       "minecraft:river": "2025-02-11 21:14:05 +0000",
+      "minecraft:snowy_plains": "2025-02-19 18:23:27 +0000",
       "minecraft:dripstone_caves": "2025-02-15 21:56:31 +0000",
+      "minecraft:snowy_taiga": "2025-02-19 18:22:05 +0000",
       "minecraft:forest": "2025-02-15 21:45:15 +0000",
       "minecraft:jungle": "2025-02-16 15:48:53 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 15:54:48 +0000",
@@ -5431,6 +5438,7 @@
       "minecraft:cave_spider": "2025-02-15 23:29:44 +0000",
       "minecraft:piglin": "2025-02-17 18:14:39 +0000",
       "minecraft:silverfish": "2025-02-16 16:41:03 +0000",
+      "minecraft:stray": "2025-02-19 18:24:26 +0000",
       "minecraft:zombie": "2025-02-11 21:37:04 +0000",
       "minecraft:zombie_villager": "2025-02-15 21:29:53 +0000"
     },
@@ -13957,6 +13965,36 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-02-17 18:53:04 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_ancient_anima": "2025-02-19 18:31:48 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-02-19 18:31:48 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2025-02-19 18:31:48 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_ancient_anima": "2025-02-19 18:31:48 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-02-19 18:31:48 +0000"
     },
     "done": true
   },

@@ -18161,9 +18161,117 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/deepslate_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/local_void": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_flail": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "prominent:level_10": {
+    "criteria": {
+      "requirement": "2025-02-19 18:31:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/blackstone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_fishing_rod": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/oak_pressure_plate_from_slab": {
     "criteria": {
       "has_oak_slab": "2025-02-19 18:11:33 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/nether_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
     },
     "done": true
   },
@@ -18173,15 +18281,99 @@
     },
     "done": true
   },
+  "fwaystones:recipes/end_stone_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/brewery": {
     "criteria": {
       "has_alt_item": "2025-02-19 18:11:53 +0000"
     },
     "done": true
   },
+  "fwaystones:recipes/stone_brick_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/waystone_scroll": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/red_desert_waystone": {
+    "criteria": {
+      "has_abyss_watcher": "2025-02-19 18:20:55 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tables/oak_table_slab": {
     "criteria": {
       "has_bamboo": "2025-02-19 18:11:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-02-19 18:20:30 +0000"
     },
     "done": true
   },
