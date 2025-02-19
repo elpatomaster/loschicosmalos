@@ -2648,3 +2648,4 @@ BCLib - Nether BiomeSource (1ff5755d)
 [19:03:41] [Server thread/INFO]: remove player wand
 [19:03:41] [Server thread/INFO]: Updating all forceload tickets for 60f28b87-4fcb-4dfe-ba72-33ba4cf30542
 [19:04:00] [Server thread/INFO]: [elpatomaster: Set 42 experience levels on elpatomaster]
+[19:11:12] [Server thread/INFO]: [elpatomaster: Gamerule randomTickSpeed is now set to: 1000]
