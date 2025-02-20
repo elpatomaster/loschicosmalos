@@ -19115,6 +19115,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-02-20 01:26:39 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sprout_armor_boots": {
     "criteria": {
       "has_nether_wart": "2025-02-20 01:10:58 +0000"
