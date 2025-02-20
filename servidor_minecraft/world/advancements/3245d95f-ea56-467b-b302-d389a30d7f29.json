@@ -1062,6 +1062,7 @@
       "minecraft:snowy_beach": "2025-02-17 20:12:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 15:54:45 +0000",
       "minecraft:meadow": "2025-02-17 19:10:44 +0000",
+      "minecraft:savanna": "2025-02-20 16:08:41 +0000",
       "minecraft:plains": "2025-02-15 22:22:00 +0000"
     },
     "done": false
@@ -19871,6 +19872,12 @@
   "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
     "criteria": {
       "has_ruby_gem": "2025-02-20 15:51:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
+    "criteria": {
+      "has_golden_helmet": "2025-02-20 16:08:31 +0000"
     },
     "done": true
   },
