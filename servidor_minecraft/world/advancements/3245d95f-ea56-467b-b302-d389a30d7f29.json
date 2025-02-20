@@ -600,6 +600,7 @@
       "maple_forest": "2025-02-17 19:10:02 +0000",
       "magnolia_highlands": "2025-02-19 18:00:59 +0000",
       "sparse_redwoods": "2025-02-16 15:55:46 +0000",
+      "deciduous_forest": "2025-02-20 16:39:40 +0000",
       "boreal_forest": "2025-02-17 19:10:25 +0000",
       "towering_cliffs": "2025-02-19 17:31:44 +0000",
       "infernal_holt": "2025-02-17 18:20:00 +0000",
@@ -637,6 +638,7 @@
       "maple_forest": "2025-02-17 19:10:02 +0000",
       "magnolia_highlands": "2025-02-19 18:00:59 +0000",
       "sparse_redwoods": "2025-02-16 15:55:46 +0000",
+      "deciduous_forest": "2025-02-20 16:39:40 +0000",
       "boreal_forest": "2025-02-17 19:10:25 +0000",
       "towering_cliffs": "2025-02-19 17:31:44 +0000",
       "bamboo_forest": "2025-02-15 21:22:52 +0000",
@@ -19882,6 +19884,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_shear_dagger": {
+    "criteria": {
+      "has_shears": "2025-02-20 16:47:54 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/gold_ingot_from_helmet": {
     "criteria": {
       "has_golden_helmet": "2025-02-20 16:08:31 +0000"
@@ -19894,15 +19902,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-20 16:39:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/ruby_axe": {
     "criteria": {
       "has_ruby_gem": "2025-02-20 15:51:30 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-20 16:40:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/redstone/redstone_from_blasting_redstone_bulb": {
+    "criteria": {
+      "has_redstone_bulb": "2025-02-20 16:39:50 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/ruby_dust": {
     "criteria": {
       "has_tag_c_rubies": "2025-02-20 15:51:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-20 16:40:53 +0000"
     },
     "done": true
   },
@@ -19915,6 +19947,18 @@
   "techreborn:recipes/misc/crafting_table/armor/ruby_boots": {
     "criteria": {
       "has_ruby_gem": "2025-02-20 15:51:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-02-20 16:40:53 +0000"
+    },
+    "done": true
+  },
+  "indrev:nikolite": {
+    "criteria": {
+      "checkInv": "2025-02-20 16:44:50 +0000"
     },
     "done": true
   },
