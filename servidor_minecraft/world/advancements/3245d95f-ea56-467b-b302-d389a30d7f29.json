@@ -19109,6 +19109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-20 00:47:33 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/blood_pendant": {
     "criteria": {
       "has_item": "2025-02-20 00:43:07 +0000"
@@ -19118,6 +19124,12 @@
   "botania:recipes/misc/incense_stick": {
     "criteria": {
       "has_item": "2025-02-20 00:43:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/magenta_shiny_flower": {
+    "criteria": {
+      "has_item": "2025-02-20 00:55:37 +0000"
     },
     "done": true
   },
@@ -19139,9 +19151,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-20 00:47:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_magenta": {
+    "criteria": {
+      "has_item": "2025-02-20 00:55:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sandstone_smelting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2025-02-20 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_ember": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-20 00:47:33 +0000"
     },
     "done": true
   },
@@ -19157,9 +19187,27 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/spark": {
+    "criteria": {
+      "has_item": "2025-02-20 00:47:33 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2025-02-20 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/blaze_powder": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-20 00:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-20 00:47:33 +0000"
     },
     "done": true
   },
@@ -19175,15 +19223,33 @@
     },
     "done": true
   },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-02-20 00:48:29 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2025-02-20 00:40:18 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/compressor/blaze_rod": {
+    "criteria": {
+      "has_blaze_powder": "2025-02-20 00:47:33 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/scale_mail_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-02-20 00:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-02-20 00:47:33 +0000"
     },
     "done": true
   },
