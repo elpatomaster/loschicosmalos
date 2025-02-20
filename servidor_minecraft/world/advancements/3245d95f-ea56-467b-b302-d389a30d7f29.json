@@ -1076,7 +1076,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-02-11 21:14:21 +0000",
-      "opened_chest": "2025-02-11 21:18:58 +0000"
+      "opened_chest": "2025-02-11 21:18:58 +0000",
+      "opened_cart": "2025-02-20 16:31:39 +0000"
     },
     "done": false
   },
@@ -19851,6 +19852,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-20 16:31:39 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/ruby_storage_block": {
     "criteria": {
       "has_ruby_gem": "2025-02-20 15:51:30 +0000"
@@ -19914,6 +19921,12 @@
   "techreborn:recipes/misc/crafting_table/tool/ruby_pickaxe": {
     "criteria": {
       "has_ruby_gem": "2025-02-20 15:51:30 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-02-20 16:32:25 +0000"
     },
     "done": true
   },
