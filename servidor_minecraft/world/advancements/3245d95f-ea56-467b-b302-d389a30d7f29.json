@@ -19181,6 +19181,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-02-20 02:09:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2025-02-20 01:10:58 +0000"
@@ -19784,6 +19790,12 @@
   "betternether:recipes/building_blocks/soul_sandstone_soul_sandstone_slab": {
     "criteria": {
       "has_soul_sandstone": "2025-02-20 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-02-20 02:06:50 +0000"
     },
     "done": true
   },
