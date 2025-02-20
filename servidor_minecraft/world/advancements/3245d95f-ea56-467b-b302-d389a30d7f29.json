@@ -19361,6 +19361,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/gold_ingot_from_chestplate": {
+    "criteria": {
+      "has_golden_chestplate": "2025-02-20 01:49:55 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sprout_armor_chestplate": {
     "criteria": {
       "has_nether_wart": "2025-02-20 01:10:58 +0000"
@@ -19382,6 +19388,12 @@
   "mcda:recipes/upgrade_cores/upgrade_core_wither": {
     "criteria": {
       "has_core_specification_item": "2025-02-20 01:17:15 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/galena_dust_from_galena_ore_with_mercury": {
+    "criteria": {
+      "has_tag_c_galena_ores": "2025-02-20 01:48:02 +0000"
     },
     "done": true
   },
