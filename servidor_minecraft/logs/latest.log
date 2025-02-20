@@ -2455,3 +2455,7 @@ BCLib - The End  BiomeSource (2cb1726c)
 [15:34:29] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
 [15:43:18] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [15:51:30] [Server thread/INFO]: elpatomaster has made the advancement [Tech Reborn]
+[16:00:41] [Server thread/WARN]: Block entity minecells:doorway @ class_2338{x=731, y=70, z=-243} state Block{supplementaries:structure_temp} invalid for ticking:
+[16:00:41] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / ctov:large/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / ctov:large/village_jungle], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp]] from pos class_2338{x=731, y=72, z=-245}
+[16:00:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[16:00:47] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
