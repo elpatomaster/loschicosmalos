@@ -19229,6 +19229,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_byte": {
     "criteria": {
       "has_item": "2025-02-20 01:12:53 +0000"
@@ -19349,9 +19355,21 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_slab": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_stone_button": {
     "criteria": {
       "has_item": "2025-02-20 01:12:53 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
     },
     "done": true
   },
@@ -19397,9 +19415,21 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/polished_stairs": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sandstone_smelting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2025-02-20 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
     },
     "done": true
   },
@@ -19430,6 +19460,12 @@
   "techreborn:recipes/centrifuge/nether_wart": {
     "criteria": {
       "has_nether_wart": "2025-02-20 01:10:58 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
     },
     "done": true
   },
@@ -19535,6 +19571,12 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2025-02-20 01:12:53 +0000"
@@ -19550,6 +19592,12 @@
   "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2025-02-20 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
     },
     "done": true
   },
@@ -19574,6 +19622,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-02-20 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
     },
     "done": true
   },
@@ -19682,6 +19736,12 @@
   "betternether:recipes/building_blocks/soul_sandstone_cut_stonecutting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2025-02-20 00:40:18 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-02-20 01:55:58 +0000"
     },
     "done": true
   },
