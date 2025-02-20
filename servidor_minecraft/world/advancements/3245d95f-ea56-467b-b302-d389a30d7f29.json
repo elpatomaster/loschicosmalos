@@ -19145,6 +19145,12 @@
     },
     "done": true
   },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-02-20 01:20:05 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/living_vines_armor_boots": {
     "criteria": {
       "has_nether_wart": "2025-02-20 01:10:58 +0000"
@@ -19211,6 +19217,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-20 01:17:15 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_byte": {
     "criteria": {
       "has_item": "2025-02-20 01:12:53 +0000"
@@ -19220,6 +19232,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-02-20 01:09:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-20 01:17:15 +0000"
     },
     "done": true
   },
@@ -19355,6 +19373,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_wither": {
+    "criteria": {
+      "has_core_specification_item": "2025-02-20 01:17:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sandstone_smelting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2025-02-20 00:40:18 +0000"
@@ -19451,6 +19475,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-20 01:17:21 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
     "criteria": {
       "has_zinc_ingot": "2025-02-20 01:12:53 +0000"
@@ -19493,6 +19523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-20 01:17:21 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/soul_sandstone_slab_stonecutting": {
     "criteria": {
       "has_block.betternether.soul_sandstone": "2025-02-20 00:40:18 +0000"
@@ -19508,6 +19544,12 @@
   "techreborn:recipes/industrial_electrolyzer/blaze_powder": {
     "criteria": {
       "has_blaze_powder": "2025-02-20 00:47:33 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:stars_edge": {
+    "criteria": {
+      "requirement": "2025-02-20 01:16:38 +0000"
     },
     "done": true
   },
@@ -19577,6 +19619,12 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/withered_wabbajack": {
+    "criteria": {
+      "has_item": "2025-02-20 01:17:15 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
     "criteria": {
       "has_item": "2025-02-20 01:12:53 +0000"
@@ -19586,6 +19634,12 @@
   "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
     "criteria": {
       "has_item": "2025-02-20 01:12:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-20 01:17:15 +0000"
     },
     "done": true
   },
